@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update:
@@ -25,8 +27,7 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Fetch data
-        run: |
-          python scripts/fetch.py
+        run: python scripts/fetch.py
 
       - name: Commit changes
         run: |
@@ -35,3 +36,19 @@ jobs:
           git add site/data/*.json
           git commit -m "Update data" || echo "No changes to commit"
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
