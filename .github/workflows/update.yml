@@ -1,0 +1,37 @@
+name: Update Alþingi watch data
+
+on:
+  schedule:
+    - cron: "15 6 * * *"  # 06:15 UTC daglega (Reykjavík)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Fetch data
+        run: |
+          python scripts/fetch.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "althingi-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add site/data/*.json
+          git commit -m "Update data" || echo "No changes to commit"
+          git push

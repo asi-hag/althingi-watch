@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="is">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Alþingi vöktun</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; }
+    header { display:flex; gap:12px; align-items: baseline; flex-wrap: wrap; }
+    .meta { color:#555; font-size: 0.95rem; }
+    .row { display:flex; gap:12px; flex-wrap:wrap; margin: 16px 0; }
+    input, select { padding: 8px 10px; font-size: 1rem; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 10px; border-bottom: 1px solid #e5e5e5; vertical-align: top; }
+    th { text-align: left; }
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0;">Alþingi vöktun</h1>
+    <div class="meta" id="generated"></div>
+  </header>
+
+  <div class="row">
+    <select id="dataset">
+      <option value="bills">Þingskjöl</option>
+      <option value="consultations">Umsagnarbeiðnir</option>
+      <option value="meetings">Nefndarfundir</option>
+    </select>
+    <input id="q" placeholder="Leit (t.d. lífeyrir, velferðar...)" size="40" />
+    <label style="display:flex;align-items:center;gap:6px;">
+      Frá:
+      <input type="date" id="fromDate" />
+    </label>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Heiti</th>
+        <th>Dagsetning</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+<script>
+const files = {
+  bills: "data/bills.json",
+  consultations: "data/consultations.json",
+  meetings: "data/meetings.json",
+};
+
+let current = [];
+
+function norm(s){ return (s||"").toLowerCase(); }
+
+async function load(name){
+  const r = await fetch(files[name], {cache: "no-store"});
+  const data = await r.json();
+  document.getElementById("generated").textContent = `Síðast uppfært: ${data.generated_at}`;
+  current = data.items || [];
+  render();
+}
+
+function render(){
+  const q = norm(document.getElementById("q").value);
+  const fromDate = document.getElementById("fromDate").value; // "YYYY-MM-DD" or ""
+
+  const rows = current
+    .filter(x => !fromDate || (x.published || "") >= fromDate)
+    .filter(x => !q || norm(x.title).includes(q) || norm(x.summary).includes(q))
+    .sort((a,b) => (b.published || "").localeCompare(a.published || ""));
+
+  const tb = document.getElementById("rows");
+  tb.innerHTML = rows.map(x => `
+    <tr>
+      <td>
+        <a href="${x.link || "#"}" target="_blank" rel="noopener">${x.title || "(án titils)"}</a>
+        ${x.summary ? `<div class="meta">${x.summary}</div>` : ""}
+      </td>
+      <td class="meta" style="white-space:nowrap">${x.published || ""}</td>
+    </tr>
+  `).join("");
+}
+
+document.getElementById("dataset").addEventListener("change", e => load(e.target.value));
+document.getElementById("q").addEventListener("input", render);
+document.getElementById("fromDate").addEventListener("input", render);
+
+// initial
+load("bills");
+</script>
+</body>
+</html>

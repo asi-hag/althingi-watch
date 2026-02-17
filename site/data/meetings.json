@@ -1,0 +1,2168 @@
+{
+  "generated_at": "2026-02-17T15:23:00+00:00",
+  "items": [
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-09-10 kl. 17:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27754",
+      "published": "2025-09-10",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2025-09-15 kl. 08:15 (til ríkislögreglustjóra)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27758",
+      "published": "2025-09-15",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-09-15 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27755",
+      "published": "2025-09-15",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-09-15 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27750",
+      "published": "2025-09-15",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-09-15 kl. 09:35 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27757",
+      "published": "2025-09-15",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-09-16 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27763",
+      "published": "2025-09-16",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-09-16 kl. 09:10 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27766",
+      "published": "2025-09-16",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-09-17 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27751",
+      "published": "2025-09-17",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-09-17 kl. 09:00 (heimsókn í Krabbameinsfélagið)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27769",
+      "published": "2025-09-17",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-09-17 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27775",
+      "published": "2025-09-17",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-09-17 kl. 09:20 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27767",
+      "published": "2025-09-17",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-09-18 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27777",
+      "published": "2025-09-18",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-09-18 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27778",
+      "published": "2025-09-18",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-09-18 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27773",
+      "published": "2025-09-18",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild þingmannaráðstefnunnar um norðurskautsmál — 2025-09-18 kl. 12:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27774",
+      "published": "2025-09-18",
+      "nefnd": "Íslandsdeild þingmannaráðstefnunnar um norðurskautsmál"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2025-09-22 kl. 08:15 (heimsókn til forstjóra Landspítalans)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27779",
+      "published": "2025-09-22",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-09-22 kl. 09:30 (heimsókn í Ljósið)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27770",
+      "published": "2025-09-22",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-09-22 kl. 09:36 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27784",
+      "published": "2025-09-22",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-09-22 kl. 09:37 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27783",
+      "published": "2025-09-22",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Vestnorræna ráðsins — 2025-09-22 kl. 11:20 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27785",
+      "published": "2025-09-22",
+      "nefnd": "Íslandsdeild Vestnorræna ráðsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-09-23 kl. 09:00 (heimsókn til Grindavíkur)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27791",
+      "published": "2025-09-23",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-09-23 kl. 09:03 (heimsókn til Vegagerðarinnar)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27790",
+      "published": "2025-09-23",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-09-24 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27786",
+      "published": "2025-09-24",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-09-24 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27815",
+      "published": "2025-09-24",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-09-24 kl. 09:17 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27813",
+      "published": "2025-09-24",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-09-24 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27814",
+      "published": "2025-09-24",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-09-24 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27787",
+      "published": "2025-09-24",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-09-24 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27816",
+      "published": "2025-09-24",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-09-24 kl. 15:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27793",
+      "published": "2025-09-24",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-09-25 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27819",
+      "published": "2025-09-25",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-09-25 kl. 09:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27788",
+      "published": "2025-09-25",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Evrópuráðsþingsins — 2025-09-26 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27825",
+      "published": "2025-09-26",
+      "nefnd": "Íslandsdeild Evrópuráðsþingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Norðurlandaráðs — 2025-09-26 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27824",
+      "published": "2025-09-26",
+      "nefnd": "Íslandsdeild Norðurlandaráðs"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-09-26 kl. 13:11 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27789",
+      "published": "2025-09-26",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-10-06 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27829",
+      "published": "2025-10-06",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-10-06 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27838",
+      "published": "2025-10-06",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-10-06 kl. 09:33 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27821",
+      "published": "2025-10-06",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-10-06 kl. 09:43 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27817",
+      "published": "2025-10-06",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2025-10-07 kl. 08:15 (Landhelgisgæslunnar)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27759",
+      "published": "2025-10-07",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-07 kl. 09:00 (til Kauphallarinnar og Nasdaq verðbréfamiðstöðvar)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27827",
+      "published": "2025-10-07",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-10-07 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27837",
+      "published": "2025-10-07",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-10-07 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27843",
+      "published": "2025-10-07",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-10-07 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27842",
+      "published": "2025-10-07",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-10-08 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27818",
+      "published": "2025-10-08",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-10-08 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27830",
+      "published": "2025-10-08",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-10-08 kl. 09:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27848",
+      "published": "2025-10-08",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-10-08 kl. 09:15 (til Ríkisendurskoðunar)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27822",
+      "published": "2025-10-08",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2025-10-08 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27844",
+      "published": "2025-10-08",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-10-09 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27854",
+      "published": "2025-10-09",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-10-09 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27850",
+      "published": "2025-10-09",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-09 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27828",
+      "published": "2025-10-09",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-14 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27862",
+      "published": "2025-10-14",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-10-14 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27856",
+      "published": "2025-10-14",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-10-14 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27863",
+      "published": "2025-10-14",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "framtíðarnefnd — 2025-10-14 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27826",
+      "published": "2025-10-14",
+      "nefnd": "framtíðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-10-15 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27867",
+      "published": "2025-10-15",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-10-15 kl. 09:05 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27823",
+      "published": "2025-10-15",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-10-15 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27866",
+      "published": "2025-10-15",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-10-15 kl. 09:17 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27861",
+      "published": "2025-10-15",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2025-10-15 kl. 11:10 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27852",
+      "published": "2025-10-15",
+      "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Vestnorræna ráðsins — 2025-10-15 kl. 11:20 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27840",
+      "published": "2025-10-15",
+      "nefnd": "Íslandsdeild Vestnorræna ráðsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Alþjóðaþingmannasambandsins — 2025-10-15 kl. 12:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27857",
+      "published": "2025-10-15",
+      "nefnd": "Íslandsdeild Alþjóðaþingmannasambandsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-16 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27873",
+      "published": "2025-10-16",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-10-16 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27874",
+      "published": "2025-10-16",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-10-16 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27870",
+      "published": "2025-10-16",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-10-16 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27865",
+      "published": "2025-10-16",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-10-17 kl. 08:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27869",
+      "published": "2025-10-17",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-10-20 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27887",
+      "published": "2025-10-20",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-10-20 kl. 09:34 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27882",
+      "published": "2025-10-20",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-10-20 kl. 09:37 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27879",
+      "published": "2025-10-20",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-10-20 kl. 10:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27886",
+      "published": "2025-10-20",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-10-21 kl. 08:45 (í álverið í Straumsvík)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27893",
+      "published": "2025-10-21",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-21 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27880",
+      "published": "2025-10-21",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-10-21 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27894",
+      "published": "2025-10-21",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-10-21 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27895",
+      "published": "2025-10-21",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-21 kl. 10:53 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27881",
+      "published": "2025-10-21",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Norðurlandaráðs — 2025-10-21 kl. 12:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27890",
+      "published": "2025-10-21",
+      "nefnd": "Íslandsdeild Norðurlandaráðs"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-10-22 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27884",
+      "published": "2025-10-22",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-10-22 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27891",
+      "published": "2025-10-22",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-10-22 kl. 09:17 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27892",
+      "published": "2025-10-22",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-10-22 kl. 10:00 (heimsókn á öryggissvæðið á Keflavíkurflugvelli)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27851",
+      "published": "2025-10-22",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2025-10-22 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27872",
+      "published": "2025-10-22",
+      "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-23 kl. 08:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27898",
+      "published": "2025-10-23",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-10-23 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27901",
+      "published": "2025-10-23",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-10-23 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27902",
+      "published": "2025-10-23",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-10-24 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27909",
+      "published": "2025-10-24",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Norðurlandaráðs — 2025-10-27 kl. 09:00 (í þinghúsinu í Stokkhólmi)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27931",
+      "published": "2025-10-27",
+      "nefnd": "Íslandsdeild Norðurlandaráðs"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-10-29 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27903",
+      "published": "2025-10-29",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-10-30 kl. 10:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27914",
+      "published": "2025-10-30",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2025-11-03 kl. 08:15 (Landsbjargar)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27923",
+      "published": "2025-11-03",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-03 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27908",
+      "published": "2025-11-03",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-03 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27921",
+      "published": "2025-11-03",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-11-03 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27915",
+      "published": "2025-11-03",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-03 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27922",
+      "published": "2025-11-03",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-04 kl. 08:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27926",
+      "published": "2025-11-04",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-04 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27917",
+      "published": "2025-11-04",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-04 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27927",
+      "published": "2025-11-04",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-04 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27924",
+      "published": "2025-11-04",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild þings Öryggis- og samvinnustofnunar Evrópu — 2025-11-04 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27925",
+      "published": "2025-11-04",
+      "nefnd": "Íslandsdeild þings Öryggis- og samvinnustofnunar Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "framtíðarnefnd — 2025-11-04 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27889",
+      "published": "2025-11-04",
+      "nefnd": "framtíðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-05 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27933",
+      "published": "2025-11-05",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-05 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27934",
+      "published": "2025-11-05",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-05 kl. 09:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27919",
+      "published": "2025-11-05",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-11-05 kl. 09:18 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27928",
+      "published": "2025-11-05",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-06 kl. 08:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27935",
+      "published": "2025-11-06",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-06 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27932",
+      "published": "2025-11-06",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-06 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27941",
+      "published": "2025-11-06",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-06 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27939",
+      "published": "2025-11-06",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2025-11-10 kl. 08:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27940",
+      "published": "2025-11-10",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-11-10 kl. 09:30 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27947",
+      "published": "2025-11-10",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-10 kl. 09:31 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27948",
+      "published": "2025-11-10",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-10 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27946",
+      "published": "2025-11-10",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-10 kl. 09:33 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27937",
+      "published": "2025-11-10",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-11 kl. 08:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27966",
+      "published": "2025-11-11",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-11 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27961",
+      "published": "2025-11-11",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-11 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27965",
+      "published": "2025-11-11",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-11 kl. 09:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27962",
+      "published": "2025-11-11",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-12 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27945",
+      "published": "2025-11-12",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-12 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27976",
+      "published": "2025-11-12",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-12 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27974",
+      "published": "2025-11-12",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-11-12 kl. 10:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27975",
+      "published": "2025-11-12",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-13 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27983",
+      "published": "2025-11-13",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-13 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27977",
+      "published": "2025-11-13",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-13 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27981",
+      "published": "2025-11-13",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-13 kl. 09:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27982",
+      "published": "2025-11-13",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-13 kl. 13:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27984",
+      "published": "2025-11-13",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-13 kl. 13:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27949",
+      "published": "2025-11-13",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-11-17 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27991",
+      "published": "2025-11-17",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-17 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27987",
+      "published": "2025-11-17",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-17 kl. 09:33 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27988",
+      "published": "2025-11-17",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-17 kl. 09:34 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27992",
+      "published": "2025-11-17",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-18 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27994",
+      "published": "2025-11-18",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-18 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27996",
+      "published": "2025-11-18",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-18 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27997",
+      "published": "2025-11-18",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-18 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27993",
+      "published": "2025-11-18",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-19 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27995",
+      "published": "2025-11-19",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-19 kl. 09:05 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27989",
+      "published": "2025-11-19",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-11-19 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27999",
+      "published": "2025-11-19",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-20 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28002",
+      "published": "2025-11-20",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-20 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28008",
+      "published": "2025-11-20",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-20 kl. 09:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28001",
+      "published": "2025-11-20",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-20 kl. 09:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28006",
+      "published": "2025-11-20",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-21 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28019",
+      "published": "2025-11-21",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-21 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28024",
+      "published": "2025-11-21",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-21 kl. 09:00 (til Betri samgangna)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28004",
+      "published": "2025-11-21",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-21 kl. 13:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28021",
+      "published": "2025-11-21",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-21 kl. 13:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28020",
+      "published": "2025-11-21",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-21 kl. 13:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28017",
+      "published": "2025-11-21",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2025-11-24 kl. 08:15 (slökkviliðs höfuðborgarsvæðisins)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28000",
+      "published": "2025-11-24",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-24 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28026",
+      "published": "2025-11-24",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-24 kl. 09:31 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28025",
+      "published": "2025-11-24",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-25 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28029",
+      "published": "2025-11-25",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-25 kl. 09:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28030",
+      "published": "2025-11-25",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "framtíðarnefnd — 2025-11-25 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=27964",
+      "published": "2025-11-25",
+      "nefnd": "framtíðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-26 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28027",
+      "published": "2025-11-26",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-26 kl. 09:00 (í utanríkisráðuneytinu)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28032",
+      "published": "2025-11-26",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-26 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28034",
+      "published": "2025-11-26",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-11-26 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28037",
+      "published": "2025-11-26",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-26 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28035",
+      "published": "2025-11-26",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-26 kl. 15:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28038",
+      "published": "2025-11-26",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-26 kl. 15:10 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28036",
+      "published": "2025-11-26",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-27 kl. 09:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28040",
+      "published": "2025-11-27",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-27 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28043",
+      "published": "2025-11-27",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-11-27 kl. 09:08 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28042",
+      "published": "2025-11-27",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-27 kl. 13:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28041",
+      "published": "2025-11-27",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-11-28 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28049",
+      "published": "2025-11-28",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-11-28 kl. 09:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28045",
+      "published": "2025-11-28",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-11-28 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28050",
+      "published": "2025-11-28",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-11-28 kl. 13:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28048",
+      "published": "2025-11-28",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-11-28 kl. 13:07 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28046",
+      "published": "2025-11-28",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-11-28 kl. 13:11 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28044",
+      "published": "2025-11-28",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-12-02 kl. 09:05 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28057",
+      "published": "2025-12-02",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-12-02 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28060",
+      "published": "2025-12-02",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-12-02 kl. 09:20 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28059",
+      "published": "2025-12-02",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-12-02 kl. 10:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28058",
+      "published": "2025-12-02",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-03 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28061",
+      "published": "2025-12-03",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-12-03 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28062",
+      "published": "2025-12-03",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-12-03 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28056",
+      "published": "2025-12-03",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-12-04 kl. 09:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28065",
+      "published": "2025-12-04",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-12-04 kl. 09:08 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28063",
+      "published": "2025-12-04",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-12-04 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28068",
+      "published": "2025-12-04",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-12-05 kl. 08:33 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28074",
+      "published": "2025-12-05",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-05 kl. 09:33 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28073",
+      "published": "2025-12-05",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-12-08 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28078",
+      "published": "2025-12-08",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-08 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28083",
+      "published": "2025-12-08",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-12-08 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28076",
+      "published": "2025-12-08",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-12-08 kl. 09:43 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28075",
+      "published": "2025-12-08",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-12-08 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28080",
+      "published": "2025-12-08",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-12-08 kl. 15:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28079",
+      "published": "2025-12-08",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-12-08 kl. 15:05 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28081",
+      "published": "2025-12-08",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-12-09 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28082",
+      "published": "2025-12-09",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-12-09 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28085",
+      "published": "2025-12-09",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-09 kl. 09:32 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28084",
+      "published": "2025-12-09",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-10 kl. 08:52 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28086",
+      "published": "2025-12-10",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-11 kl. 13:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28090",
+      "published": "2025-12-11",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-12-12 kl. 08:39 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28092",
+      "published": "2025-12-12",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-12 kl. 09:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28094",
+      "published": "2025-12-12",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-12-12 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28093",
+      "published": "2025-12-12",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2025-12-12 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28089",
+      "published": "2025-12-12",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-15 kl. 08:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28101",
+      "published": "2025-12-15",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2025-12-15 kl. 08:39 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28102",
+      "published": "2025-12-15",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-12-15 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28104",
+      "published": "2025-12-15",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-12-15 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28096",
+      "published": "2025-12-15",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2025-12-16 kl. 08:10 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28105",
+      "published": "2025-12-16",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2025-12-16 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28107",
+      "published": "2025-12-16",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-16 kl. 09:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28108",
+      "published": "2025-12-16",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-12-16 kl. 10:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28111",
+      "published": "2025-12-16",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2025-12-16 kl. 10:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28106",
+      "published": "2025-12-16",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-17 kl. 08:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28113",
+      "published": "2025-12-17",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2025-12-17 kl. 08:34 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28112",
+      "published": "2025-12-17",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2025-12-17 kl. 18:30 (í færeyska herberginu)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28115",
+      "published": "2025-12-17",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2025-12-18 kl. 09:10 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28114",
+      "published": "2025-12-18",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-01-05 kl. 08:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28117",
+      "published": "2026-01-05",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-01-12 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28124",
+      "published": "2026-01-12",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-01-12 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28120",
+      "published": "2026-01-12",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-01-13 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28121",
+      "published": "2026-01-13",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-01-13 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28128",
+      "published": "2026-01-13",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-01-13 kl. 13:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28126",
+      "published": "2026-01-13",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-01-14 kl. 09:15 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28130",
+      "published": "2026-01-14",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-01-14 kl. 09:40 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28131",
+      "published": "2026-01-14",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-01-15 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28125",
+      "published": "2026-01-15",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-01-15 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28142",
+      "published": "2026-01-15",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-01-15 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28122",
+      "published": "2026-01-15",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-01-15 kl. 10:20 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28140",
+      "published": "2026-01-15",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-01-15 kl. 13:00 (í utanríkisráðuneytinu)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28143",
+      "published": "2026-01-15",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-01-19 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28145",
+      "published": "2026-01-19",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-01-19 kl. 09:35 (í Hringsjá/Víðsjá)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28141",
+      "published": "2026-01-19",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-01-19 kl. 10:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28153",
+      "published": "2026-01-19",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-01-20 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28152",
+      "published": "2026-01-20",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-01-20 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28155",
+      "published": "2026-01-20",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-01-20 kl. 09:05 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28156",
+      "published": "2026-01-20",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-01-20 kl. 09:05 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28157",
+      "published": "2026-01-20",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Evrópuráðsþingsins — 2026-01-20 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28154",
+      "published": "2026-01-20",
+      "nefnd": "Íslandsdeild Evrópuráðsþingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-01-21 kl. 09:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28164",
+      "published": "2026-01-21",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-01-21 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28158",
+      "published": "2026-01-21",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Vestnorræna ráðsins — 2026-01-21 kl. 11:20 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28139",
+      "published": "2026-01-21",
+      "nefnd": "Íslandsdeild Vestnorræna ráðsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-01-21 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28163",
+      "published": "2026-01-21",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-01-21 kl. 15:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28165",
+      "published": "2026-01-21",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-01-21 kl. 15:25 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28166",
+      "published": "2026-01-21",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-01-22 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28167",
+      "published": "2026-01-22",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-01-22 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28169",
+      "published": "2026-01-22",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-01-22 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28170",
+      "published": "2026-01-22",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-01-22 kl. 09:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28168",
+      "published": "2026-01-22",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-01-27 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28176",
+      "published": "2026-01-27",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-01-27 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28175",
+      "published": "2026-01-27",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-01-28 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28181",
+      "published": "2026-01-28",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-01-28 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28179",
+      "published": "2026-01-28",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-01-28 kl. 09:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28178",
+      "published": "2026-01-28",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-01-28 kl. 09:15 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28180",
+      "published": "2026-01-28",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-01-29 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28190",
+      "published": "2026-01-29",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-01-29 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28182",
+      "published": "2026-01-29",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-01-29 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28188",
+      "published": "2026-01-29",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-02-02 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28204",
+      "published": "2026-02-02",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-02-02 kl. 09:33 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28191",
+      "published": "2026-02-02",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-02-02 kl. 09:50 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28200",
+      "published": "2026-02-02",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Norðurlandaráðs — 2026-02-02 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28207",
+      "published": "2026-02-02",
+      "nefnd": "Íslandsdeild Norðurlandaráðs"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-02-03 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28208",
+      "published": "2026-02-03",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-03 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28197",
+      "published": "2026-02-03",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-02-03 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28209",
+      "published": "2026-02-03",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-02-04 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28214",
+      "published": "2026-02-04",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-02-04 kl. 09:07 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28192",
+      "published": "2026-02-04",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-02-04 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28210",
+      "published": "2026-02-04",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-02-04 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28201",
+      "published": "2026-02-04",
+      "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild þingmannaráðstefnunnar um norðurskautsmál — 2026-02-04 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28218",
+      "published": "2026-02-04",
+      "nefnd": "Íslandsdeild þingmannaráðstefnunnar um norðurskautsmál"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-02-04 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28215",
+      "published": "2026-02-04",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-04 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28217",
+      "published": "2026-02-04",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-02-04 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28216",
+      "published": "2026-02-04",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-02-04 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28202",
+      "published": "2026-02-04",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-02-05 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28219",
+      "published": "2026-02-05",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-02-05 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28222",
+      "published": "2026-02-05",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-02-05 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28223",
+      "published": "2026-02-05",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-05 kl. 09:03 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28221",
+      "published": "2026-02-05",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-02-09 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28236",
+      "published": "2026-02-09",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-02-09 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28235",
+      "published": "2026-02-09",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-02-09 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28220",
+      "published": "2026-02-09",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-02-09 kl. 09:39 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28232",
+      "published": "2026-02-09",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-02-10 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28238",
+      "published": "2026-02-10",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-10 kl. 09:00 (til Útlendingastofnunar)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28224",
+      "published": "2026-02-10",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-02-10 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28239",
+      "published": "2026-02-10",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-02-10 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28227",
+      "published": "2026-02-10",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild þings Öryggis- og samvinnustofnunar Evrópu — 2026-02-10 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28225",
+      "published": "2026-02-10",
+      "nefnd": "Íslandsdeild þings Öryggis- og samvinnustofnunar Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-02-11 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28234",
+      "published": "2026-02-11",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-02-11 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28255",
+      "published": "2026-02-11",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-02-11 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28252",
+      "published": "2026-02-11",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-02-11 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28253",
+      "published": "2026-02-11",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2026-02-11 kl. 12:15 (í utanríkisráðuneytinu)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28249",
+      "published": "2026-02-11",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-02-11 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28251",
+      "published": "2026-02-11",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-11 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28254",
+      "published": "2026-02-11",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-02-11 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28258",
+      "published": "2026-02-11",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-02-11 kl. 15:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28250",
+      "published": "2026-02-11",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-02-12 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28257",
+      "published": "2026-02-12",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-12 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28256",
+      "published": "2026-02-12",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-02-12 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28264",
+      "published": "2026-02-12",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-02-12 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28259",
+      "published": "2026-02-12",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-02-12 kl. 13:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28261",
+      "published": "2026-02-12",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-02-16 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28262",
+      "published": "2026-02-16",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-02-16 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28276",
+      "published": "2026-02-16",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-02-16 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28275",
+      "published": "2026-02-16",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-02-16 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28269",
+      "published": "2026-02-16",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-02-17 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28260",
+      "published": "2026-02-17",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-17 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28277",
+      "published": "2026-02-17",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-02-17 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28279",
+      "published": "2026-02-17",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-02-17 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28267",
+      "published": "2026-02-17",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-02-18 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28263",
+      "published": "2026-02-18",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-02-18 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28282",
+      "published": "2026-02-18",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-02-18 kl. 10:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28283",
+      "published": "2026-02-18",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-02-19 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28284",
+      "published": "2026-02-19",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-02-19 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28268",
+      "published": "2026-02-19",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-03-02 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28265",
+      "published": "2026-03-02",
+      "nefnd": "fjárlaganefnd"
+    }
+  ]
+}
