@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T07:13:00+00:00",
+  "generated_at": "2026-02-28T06:56:54+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -2194,6 +2194,13 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-03-02 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28315",
+      "published": "2026-03-02",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "stjórnskipunar- og eftirlitsnefnd — 2026-03-02 kl. 09:30 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28299",
       "published": "2026-03-02",
@@ -2205,6 +2212,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28306",
       "published": "2026-03-02",
       "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-03-03 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28314",
+      "published": "2026-03-03",
+      "nefnd": "allsherjar- og menntamálanefnd"
     },
     {
       "kind": "nefndarfundur",
@@ -2226,6 +2240,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28309",
       "published": "2026-03-03",
       "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-03-03 kl. 10:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28316",
+      "published": "2026-03-03",
+      "nefnd": "atvinnuveganefnd"
     },
     {
       "kind": "nefndarfundur",
