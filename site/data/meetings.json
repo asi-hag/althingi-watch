@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T07:13:22+00:00",
+  "generated_at": "2026-03-13T07:12:19+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -1830,7 +1830,7 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-02-04 kl. 11:00 (í Smiðju)",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-02-04 kl. 11:10 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28201",
       "published": "2026-02-04",
       "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
@@ -2131,17 +2131,17 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "utanríkismálanefnd — 2026-02-18 kl. 10:00 (í Smiðju)",
-      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28283",
-      "published": "2026-02-18",
-      "nefnd": "utanríkismálanefnd"
-    },
-    {
-      "kind": "nefndarfundur",
       "title": "stjórnskipunar- og eftirlitsnefnd — 2026-02-18 kl. 10:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28285",
       "published": "2026-02-18",
       "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-02-18 kl. 10:02 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28283",
+      "published": "2026-02-18",
+      "nefnd": "utanríkismálanefnd"
     },
     {
       "kind": "nefndarfundur",
@@ -2432,10 +2432,24 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-03-18 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28372",
+      "published": "2026-03-18",
+      "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "fjárlaganefnd — 2026-03-23 kl. 09:30 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28365",
       "published": "2026-03-23",
       "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-03-25 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28373",
+      "published": "2026-03-25",
+      "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
     }
   ]
 }
