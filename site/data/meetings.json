@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T07:17:04+00:00",
+  "generated_at": "2026-03-19T07:13:40+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -2257,13 +2257,6 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "allsherjar- og menntamálanefnd — 2026-03-05 kl. 09:00 (í Smiðju)",
-      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28321",
-      "published": "2026-03-05",
-      "nefnd": "allsherjar- og menntamálanefnd"
-    },
-    {
-      "kind": "nefndarfundur",
       "title": "atvinnuveganefnd — 2026-03-05 kl. 09:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28331",
       "published": "2026-03-05",
@@ -2275,6 +2268,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28281",
       "published": "2026-03-05",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-03-05 kl. 09:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28321",
+      "published": "2026-03-05",
+      "nefnd": "allsherjar- og menntamálanefnd"
     },
     {
       "kind": "nefndarfundur",
@@ -2355,7 +2355,7 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-03-11 kl. 11:00 (í Smiðju)",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-03-11 kl. 11:10 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28330",
       "published": "2026-03-11",
       "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
@@ -2492,6 +2492,20 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28372",
       "published": "2026-03-18",
       "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-03-19 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28391",
+      "published": "2026-03-19",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-03-19 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28392",
+      "published": "2026-03-19",
+      "nefnd": "atvinnuveganefnd"
     },
     {
       "kind": "nefndarfundur",
