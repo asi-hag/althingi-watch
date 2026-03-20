@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-03-19T07:13:40+00:00",
+  "generated_at": "2026-03-20T07:13:23+00:00",
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 958 - mál 402: forkaupsréttur",
+      "link": "https://www.althingi.is/altext/157/s/958.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Svar. Flutningsmaður: fjmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 951 - mál 562: útgjöld ríkissjóðs til loftslagsmála",
+      "link": "https://www.althingi.is/altext/157/s/951.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: EBB"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 955 - mál 565: verndar- og orkunýtingaráætlun (vindorka og verndarflokkur)",
+      "link": "https://www.althingi.is/altext/157/s/955.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: umhv.- og loftslrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 952 - mál 563: staða og framtíð útboðsverkefnis Náttúrufræðistofnunar um loftmyndatöku af Íslandi",
+      "link": "https://www.althingi.is/altext/157/s/952.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: IngÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 957 - mál 155: almannatryggingar (launavísitala)",
+      "link": "https://www.althingi.is/altext/157/s/957.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Lög frá Alþingi. Flutningsmaður: fél.- og húsnrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 956 - mál 114: veitingastaðir, gististaðir og skemmtanahald (skammtímaleiga, gagnaöflun og rekstrarleyfi)",
+      "link": "https://www.althingi.is/altext/157/s/956.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Lög frá Alþingi. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 946 - mál 450: hlutfall erlends vinnuafls á heilbrigðisstofnunum á Íslandi og stuðningur við íslenskunám þess",
+      "link": "https://www.althingi.is/altext/157/s/946.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Svar. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 953 - mál 564: ráðstöfun viðbótariðgjalds til séreignarsparnaðar inn á höfuðstól húsnæðislána (varanleg heimild)",
+      "link": "https://www.althingi.is/altext/157/s/953.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: fjmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 948 - mál 453: fjárframlög og ívilnanir til íþrótta- og æskulýðsstarfs",
+      "link": "https://www.althingi.is/altext/157/s/948.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Svar. Flutningsmaður: mennta- og barnamrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 947 - mál 420: biðlaun ráðherra",
+      "link": "https://www.althingi.is/altext/157/s/947.html?utm_medium=rss",
+      "published": "2026-03-19",
+      "summary": "Svar. Flutningsmaður: forsrh."
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 949 - mál 265: breyting á ýmsum lögum vegna einföldunar og samræmingar leyfisferla á sviði umhverfis- og orkumála",
@@ -311,7 +381,7 @@
     },
     {
       "kind": "skjol",
-      "title": "Skjal nr. 911 - mál 534: framkvæmd tillagna OECD um úrbætur á regluverki í byggingariðnaði og ferðaþjónustu",
+      "title": "Skjal nr. 911 - mál 534: framkvæmd tillagna OECD um úrbætur á regluverki í ferðaþjónustu",
       "link": "https://www.althingi.is/altext/157/s/911.html?utm_medium=rss",
       "published": "2026-03-16",
       "summary": "Beiðni um skýrslu. Flutningsmaður: ÞórdG"
@@ -630,76 +700,6 @@
       "link": "https://www.althingi.is/altext/157/s/862.html?utm_medium=rss",
       "published": "2026-03-04",
       "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: vf"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 864 - mál 153: veiðar í fiskveiðilandhelgi Íslands og stjórn fiskveiða (veiðistjórn grásleppu)",
-      "link": "https://www.althingi.is/altext/157/s/864.html?utm_medium=rss",
-      "published": "2026-03-04",
-      "summary": "Lög frá Alþingi. Flutningsmaður: LRM"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 836 - mál 335: fyrning og heimtur krafna vegna námslána eftir gjaldþrot",
-      "link": "https://www.althingi.is/altext/157/s/836.html?utm_medium=rss",
-      "published": "2026-03-04",
-      "summary": "Svar. Flutningsmaður: mennrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 860 - mál 511: þjóðfáni Íslendinga og ríkisskjaldarmerkið (fánatími)",
-      "link": "https://www.althingi.is/altext/157/s/860.html?utm_medium=rss",
-      "published": "2026-03-04",
-      "summary": "Frumvarp nefndar. Flutningsmaður: se"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 840 - mál 383: fjármunir til loftslagsmála",
-      "link": "https://www.althingi.is/altext/157/s/840.html?utm_medium=rss",
-      "published": "2026-03-03",
-      "summary": "Svar. Flutningsmaður: mennta- og barnamrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 854 - mál 510: almennar íbúðir (hækkun stofnframlaga ríkisins o.fl.)",
-      "link": "https://www.althingi.is/altext/157/s/854.html?utm_medium=rss",
-      "published": "2026-03-03",
-      "summary": "Stjórnarfrumvarp. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 857 - mál 231: stafræn og rafræn málsmeðferð hjá sýslumönnum og dómstólum",
-      "link": "https://www.althingi.is/altext/157/s/857.html?utm_medium=rss",
-      "published": "2026-03-03",
-      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: dómsmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 856 - mál 179: varnir gegn mengun hafs og stranda (EES-reglur, móttaka úrgangs í höfnum)",
-      "link": "https://www.althingi.is/altext/157/s/856.html?utm_medium=rss",
-      "published": "2026-03-03",
-      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: umhv.- og loftslrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 855 - mál 84: leigubifreiðaakstur (öryggi og starfsumhverfi)",
-      "link": "https://www.althingi.is/altext/157/s/855.html?utm_medium=rss",
-      "published": "2026-03-03",
-      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 853 - mál 509: fjöldi gæsluvarðhalds- og afplánunarfanga",
-      "link": "https://www.althingi.is/altext/157/s/853.html?utm_medium=rss",
-      "published": "2026-03-03",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: KGH"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 852 - mál 508: synjanir geðheilsuteyma Heilsugæslu höfuðborgarsvæðisins",
-      "link": "https://www.althingi.is/altext/157/s/852.html?utm_medium=rss",
-      "published": "2026-03-03",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: RGuðb"
     }
   ]
 }
