@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T07:19:01+00:00",
+  "generated_at": "2026-03-25T07:17:35+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -2397,17 +2397,17 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "utanríkismálanefnd — 2026-03-12 kl. 13:00 (í Smiðju)",
-      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28368",
-      "published": "2026-03-12",
-      "nefnd": "utanríkismálanefnd"
-    },
-    {
-      "kind": "nefndarfundur",
       "title": "stjórnskipunar- og eftirlitsnefnd — 2026-03-12 kl. 13:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28332",
       "published": "2026-03-12",
       "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-03-12 kl. 13:01 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28368",
+      "published": "2026-03-12",
+      "nefnd": "utanríkismálanefnd"
     },
     {
       "kind": "nefndarfundur",
@@ -2593,10 +2593,52 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-03-25 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28415",
+      "published": "2026-03-25",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-03-25 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28409",
+      "published": "2026-03-25",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-03-25 kl. 10:10 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28414",
+      "published": "2026-03-25",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-03-25 kl. 11:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28373",
       "published": "2026-03-25",
       "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild þingmannaráðstefnunnar um norðurskautsmál — 2026-03-25 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28412",
+      "published": "2026-03-25",
+      "nefnd": "Íslandsdeild þingmannaráðstefnunnar um norðurskautsmál"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-03-26 kl. 09:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28411",
+      "published": "2026-03-26",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-03-26 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28413",
+      "published": "2026-03-26",
+      "nefnd": "allsherjar- og menntamálanefnd"
     },
     {
       "kind": "nefndarfundur",
