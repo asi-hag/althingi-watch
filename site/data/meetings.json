@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T07:36:12+00:00",
+  "generated_at": "2026-03-27T07:34:43+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -2653,6 +2653,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28403",
       "published": "2026-03-26",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-03-27 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28419",
+      "published": "2026-03-27",
+      "nefnd": "utanríkismálanefnd"
     }
   ]
 }
