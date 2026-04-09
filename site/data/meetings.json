@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T07:52:28+00:00",
+  "generated_at": "2026-04-09T07:54:29+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -2495,17 +2495,17 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "allsherjar- og menntamálanefnd — 2026-03-19 kl. 09:00 (í Smiðju)",
-      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28391",
-      "published": "2026-03-19",
-      "nefnd": "allsherjar- og menntamálanefnd"
-    },
-    {
-      "kind": "nefndarfundur",
       "title": "umhverfis- og samgöngunefnd — 2026-03-19 kl. 09:03 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28395",
       "published": "2026-03-19",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-03-19 kl. 09:04 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28391",
+      "published": "2026-03-19",
+      "nefnd": "allsherjar- og menntamálanefnd"
     },
     {
       "kind": "nefndarfundur",
@@ -2558,13 +2558,6 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "allsherjar- og menntamálanefnd — 2026-03-24 kl. 09:00 (í Smiðju)",
-      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28405",
-      "published": "2026-03-24",
-      "nefnd": "allsherjar- og menntamálanefnd"
-    },
-    {
-      "kind": "nefndarfundur",
       "title": "atvinnuveganefnd — 2026-03-24 kl. 09:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28410",
       "published": "2026-03-24",
@@ -2576,6 +2569,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28385",
       "published": "2026-03-24",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-03-24 kl. 09:05 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28405",
+      "published": "2026-03-24",
+      "nefnd": "allsherjar- og menntamálanefnd"
     },
     {
       "kind": "nefndarfundur",
