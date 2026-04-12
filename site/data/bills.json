@@ -1,6 +1,13 @@
 {
-  "generated_at": "2026-04-11T07:16:02+00:00",
+  "generated_at": "2026-04-12T07:43:37+00:00",
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1055 - mál 607: virðisaukaskattur og samkeppnislög (skatthlutfall eldsneytis)",
+      "link": "https://www.althingi.is/altext/157/s/1055.html?utm_medium=rss",
+      "published": "2026-04-11",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: fjmrh."
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 1020 - mál 482: sendiráð Íslands í Madríd",
@@ -693,13 +700,6 @@
       "link": "https://www.althingi.is/altext/157/s/907.html?utm_medium=rss",
       "published": "2026-03-17",
       "summary": "Svar. Flutningsmaður: umhv.- og loftslrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 933 - mál 555: stafrænt fullveldi Íslands",
-      "link": "https://www.althingi.is/altext/157/s/933.html?utm_medium=rss",
-      "published": "2026-03-17",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞórdG"
     }
   ]
 }
