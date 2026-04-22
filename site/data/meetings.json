@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T08:07:38+00:00",
+  "generated_at": "2026-04-22T08:05:11+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -2859,10 +2859,38 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-04-22 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28488",
+      "published": "2026-04-22",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-04-22 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28449",
+      "published": "2026-04-22",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-04-22 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28485",
+      "published": "2026-04-22",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "Íslandsdeild Vestnorræna ráðsins — 2026-04-22 kl. 11:30 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28458",
       "published": "2026-04-22",
       "nefnd": "Íslandsdeild Vestnorræna ráðsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-04-24 kl. 14:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28489",
+      "published": "2026-04-24",
+      "nefnd": "utanríkismálanefnd"
     },
     {
       "kind": "nefndarfundur",
@@ -2877,6 +2905,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28472",
       "published": "2026-04-27",
       "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-04-29 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28487",
+      "published": "2026-04-29",
+      "nefnd": "fjárlaganefnd"
     }
   ]
 }
