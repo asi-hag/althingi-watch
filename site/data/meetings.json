@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T08:21:45+00:00",
+  "generated_at": "2026-04-25T07:44:42+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -2901,6 +2901,13 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-04-27 kl. 08:30 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28506",
+      "published": "2026-04-27",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "fjárlaganefnd — 2026-04-27 kl. 09:30 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28486",
       "published": "2026-04-27",
@@ -2912,6 +2919,27 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28472",
       "published": "2026-04-27",
       "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-04-27 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28496",
+      "published": "2026-04-27",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-04-27 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28498",
+      "published": "2026-04-27",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-04-28 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28484",
+      "published": "2026-04-28",
+      "nefnd": "allsherjar- og menntamálanefnd"
     },
     {
       "kind": "nefndarfundur",
