@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-04-30T08:35:43+00:00",
+  "generated_at": "2026-05-01T08:24:28+00:00",
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1165 - mál 647: aðgerðaleysi í loftslagsmálum",
+      "link": "https://www.althingi.is/altext/157/s/1165.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÁBH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1166 - mál 648: námslán úr Menntasjóði námsmanna",
+      "link": "https://www.althingi.is/altext/157/s/1166.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NMG"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1164 - mál 646: meginþættir í störfum fjármálastöðugleikaráðs 2025",
+      "link": "https://www.althingi.is/altext/157/s/1164.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Skýrsla rh. (frumskjal). Flutningsmaður: fjmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1162 - mál 644: brottfall laga um erfðafjárskatt og tekjuskattur (afnám erfðafjárskatts)",
+      "link": "https://www.althingi.is/altext/157/s/1162.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Frumvarp. Flutningsmaður: RGuðb"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1163 - mál 645: veiting sérfræðileyfa, mönnun í undirsérgreinum og mat á erlendu sérnámi",
+      "link": "https://www.althingi.is/altext/157/s/1163.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: IIsak"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1160 - mál 642: rekstrarstuðningur til einkarekinna fjölmiðla",
+      "link": "https://www.althingi.is/altext/157/s/1160.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1161 - mál 643: sérskólar og sérdeildir",
+      "link": "https://www.althingi.is/altext/157/s/1161.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: IngÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1159 - mál 531: stjórn fiskveiða (sértækar ívilnanir og jöfnunarheimildir)",
+      "link": "https://www.althingi.is/altext/157/s/1159.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Lög frá Alþingi. Flutningsmaður: innvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1158 - mál 641: fjöldi sendiherra",
+      "link": "https://www.althingi.is/altext/157/s/1158.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞSæm"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1157 - mál 640: starfsmannafjöldi orkufyrirtækja",
+      "link": "https://www.althingi.is/altext/157/s/1157.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞSæm"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1116 - mál 445: skattrannsóknir",
+      "link": "https://www.althingi.is/altext/157/s/1116.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Svar. Flutningsmaður: fjmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1156 - mál 506: Hafrannsóknastofnun, rannsókna- og ráðgjafarstofnun hafs og vatna (hlutverk, ráðgjafarnefnd, forstjóri o.fl.)",
+      "link": "https://www.althingi.is/altext/157/s/1156.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Lög frá Alþingi. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1155 - mál 531: stjórn fiskveiða (sértækar ívilnanir og jöfnunarheimildir)",
+      "link": "https://www.althingi.is/altext/157/s/1155.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: innvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1154 - mál 328: sjúkratryggingar og ófrjósemisaðgerðir (ýmsar breytingar)",
+      "link": "https://www.althingi.is/altext/157/s/1154.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1153 - mál 319: réttindi sjúklinga (takmörkun á beitingu nauðungar)",
+      "link": "https://www.althingi.is/altext/157/s/1153.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1152 - mál 297: jöfn staða og jafn réttur kynjanna (skýrslugjöf um kynbundinn launamun)",
+      "link": "https://www.althingi.is/altext/157/s/1152.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: dómsmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1151 - mál 581: náttúruvernd, Vatnajökulsþjóðgarður og úrskurðarnefnd umhverfis- og auðlindamála (gjaldtaka o.fl. vegna Náttúruverndarstofnunar)",
+      "link": "https://www.althingi.is/altext/157/s/1151.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Breytingartillaga. Flutningsmaður: GÞÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1150 - mál 639: fulltrúar á aðalfundi Landsbanka Íslands hf.",
+      "link": "https://www.althingi.is/altext/157/s/1150.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞSæm"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1149 - mál 638: rekstur Sinfóníuhljómsveitar Íslands",
+      "link": "https://www.althingi.is/altext/157/s/1149.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞSæm"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1148 - mál 637: rekstur Þjóðleikhússins",
+      "link": "https://www.althingi.is/altext/157/s/1148.html?utm_medium=rss",
+      "published": "2026-04-30",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞSæm"
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 1147 - mál 607: virðisaukaskattur og samkeppnislög (skatthlutfall eldsneytis)",
@@ -560,146 +700,6 @@
       "link": "https://www.althingi.is/altext/157/s/1064.html?utm_medium=rss",
       "published": "2026-04-14",
       "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1060 - mál 465: hagræðing í ríkisrekstri",
-      "link": "https://www.althingi.is/altext/157/s/1060.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: fjmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1062 - mál 610: rekstrarkostnaður og arðsemismat",
-      "link": "https://www.althingi.is/altext/157/s/1062.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1061 - mál 609: Maastricht--skilyrði og upptaka evru",
-      "link": "https://www.althingi.is/altext/157/s/1061.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1053 - mál 543: fjöldi einstaklinga frá MENAP-löndunum á örorku- og endurhæfingarlífeyri",
-      "link": "https://www.althingi.is/altext/157/s/1053.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1057 - mál 518: réttindagæsla fyrir fatlað fólk",
-      "link": "https://www.althingi.is/altext/157/s/1057.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1059 - mál 476: mannauðsmál",
-      "link": "https://www.althingi.is/altext/157/s/1059.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: fjmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1056 - mál 477: mannauðsmál",
-      "link": "https://www.althingi.is/altext/157/s/1056.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1054 - mál 429: endurgreidd fjárhagsaðstoð til sveitarfélaga vegna erlendra ríkisborgara",
-      "link": "https://www.althingi.is/altext/157/s/1054.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1051 - mál 523: einkahlutafélög og opinber hlutafélög",
-      "link": "https://www.althingi.is/altext/157/s/1051.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: fjmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1050 - mál 326: dvalarleyfi útlendinga",
-      "link": "https://www.althingi.is/altext/157/s/1050.html?utm_medium=rss",
-      "published": "2026-04-14",
-      "summary": "Svar. Flutningsmaður: dómsmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1076 - mál 191: raforkulög (raforkuviðskipti)",
-      "link": "https://www.althingi.is/altext/157/s/1076.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: av"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1052 - mál 539: Gott að eldast",
-      "link": "https://www.althingi.is/altext/157/s/1052.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Svar. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1049 - mál 290: erlendir fangar",
-      "link": "https://www.althingi.is/altext/157/s/1049.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Svar. Flutningsmaður: dómsmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1048 - mál 606: skýrsla Ríkisendurskoðunar um Landspítala - Mönnun og flæði sjúklinga",
-      "link": "https://www.althingi.is/altext/157/s/1048.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Álit. Flutningsmaður: se"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1047 - mál 512: umhverfiseftirlit",
-      "link": "https://www.althingi.is/altext/157/s/1047.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Svar. Flutningsmaður: umhv.- og loftslrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1046 - mál 605: eftirfylgniskýrsla Ríkisendurskoðunar um tollaframkvæmd vegna landbúnaðarafurða",
-      "link": "https://www.althingi.is/altext/157/s/1046.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Álit. Flutningsmaður: se"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1045 - mál 525: hreindýraveiðar og tjón vegna ágangs hreindýra",
-      "link": "https://www.althingi.is/altext/157/s/1045.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Svar. Flutningsmaður: umhv.- og loftslrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1044 - mál 517: meðferðarúrræði fyrir ungmenni sem glíma við geð- og fíknivanda",
-      "link": "https://www.althingi.is/altext/157/s/1044.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Svar. Flutningsmaður: mennta- og barnamrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1043 - mál 504: erfðabreytileiki laxa",
-      "link": "https://www.althingi.is/altext/157/s/1043.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Svar. Flutningsmaður: atvvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1034 - mál 454: BRCA-arfberar",
-      "link": "https://www.althingi.is/altext/157/s/1034.html?utm_medium=rss",
-      "published": "2026-04-13",
-      "summary": "Svar. Flutningsmaður: heilbrrh."
     }
   ]
 }
