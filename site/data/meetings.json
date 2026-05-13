@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T09:11:59+00:00",
+  "generated_at": "2026-05-13T09:18:43+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3181,10 +3181,24 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-05-18 kl. 09:30 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28574",
+      "published": "2026-05-18",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "umhverfis- og samgöngunefnd — 2026-05-18 kl. 15:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28549",
       "published": "2026-05-18",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-05-19 kl. 13:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28582",
+      "published": "2026-05-19",
+      "nefnd": "fjárlaganefnd"
     }
   ]
 }
