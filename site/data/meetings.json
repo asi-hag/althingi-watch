@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T09:53:34+00:00",
+  "generated_at": "2026-05-21T10:02:19+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3139,13 +3139,6 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "fjárlaganefnd — 2026-05-06 kl. 09:00 (í Smiðju)",
-      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28555",
-      "published": "2026-05-06",
-      "nefnd": "fjárlaganefnd"
-    },
-    {
-      "kind": "nefndarfundur",
       "title": "utanríkismálanefnd — 2026-05-06 kl. 09:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28556",
       "published": "2026-05-06",
@@ -3286,13 +3279,6 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "fjárlaganefnd — 2026-05-20 kl. 09:00 (Smiðja)",
-      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28583",
-      "published": "2026-05-20",
-      "nefnd": "fjárlaganefnd"
-    },
-    {
-      "kind": "nefndarfundur",
       "title": "velferðarnefnd — 2026-05-20 kl. 09:00 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28578",
       "published": "2026-05-20",
@@ -3328,10 +3314,31 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-05-21 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28594",
+      "published": "2026-05-21",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-05-21 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28595",
+      "published": "2026-05-21",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "fjárlaganefnd — 2026-05-27 kl. 09:00 (Smiðja)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28593",
       "published": "2026-05-27",
       "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Vestnorræna ráðsins — 2026-05-27 kl. 11:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28605",
+      "published": "2026-05-27",
+      "nefnd": "Íslandsdeild Vestnorræna ráðsins"
     }
   ]
 }
