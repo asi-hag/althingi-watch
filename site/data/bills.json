@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-05-21T10:02:19+00:00",
+  "generated_at": "2026-05-22T09:48:48+00:00",
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1214 - mál 638: rekstur Sinfóníuhljómsveitar Íslands",
+      "link": "https://www.althingi.is/altext/157/s/1214.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Svar. Flutningsmaður: mennrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1199 - mál 348: fjármunir til loftslagsmála",
+      "link": "https://www.althingi.is/altext/157/s/1199.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Svar. Flutningsmaður: forsrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1217 - mál 581: náttúruvernd, Vatnajökulsþjóðgarður og úrskurðarnefnd umhverfis- og auðlindamála (gjaldtaka o.fl. vegna Náttúruverndarstofnunar)",
+      "link": "https://www.althingi.is/altext/157/s/1217.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: umhv.- og loftslrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1216 - mál 320: opinber stuðningur við vísindi og nýsköpun",
+      "link": "https://www.althingi.is/altext/157/s/1216.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: mennrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1215 - mál 309: opinberir háskólar (háskólasamstæður)",
+      "link": "https://www.althingi.is/altext/157/s/1215.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: mennrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1191 - mál 357: fjármunir til loftslagsmála",
+      "link": "https://www.althingi.is/altext/157/s/1191.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Svar. Flutningsmaður: fjmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1198 - mál 627: hlutfall stöðugilda kennara í leikskólum",
+      "link": "https://www.althingi.is/altext/157/s/1198.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Svar. Flutningsmaður: mennta- og barnamrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1190 - mál 520: dvalarleyfi forsjáraðila",
+      "link": "https://www.althingi.is/altext/157/s/1190.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Svar. Flutningsmaður: dómsmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1212 - mál 661: ferðir utanríkisþjónustunnar",
+      "link": "https://www.althingi.is/altext/157/s/1212.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NMG"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1213 - mál 662: torfhúsaarfur Íslendinga",
+      "link": "https://www.althingi.is/altext/157/s/1213.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HeiðÓ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1200 - mál 311: réttindavernd fatlaðs fólks",
+      "link": "https://www.althingi.is/altext/157/s/1200.html?utm_medium=rss",
+      "published": "2026-05-21",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: vf"
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 1192 - mál 641: fjöldi sendiherra",
@@ -524,14 +601,14 @@
       "title": "Skjal nr. 1121 - mál 234: markaðssetningarlög",
       "link": "https://www.althingi.is/altext/157/s/1121.html?utm_medium=rss",
       "published": "2026-04-27",
-      "summary": "Lög frá Alþingi. Flutningsmaður: atvvrh."
+      "summary": "Lög frá Alþingi. Lög nr. 44/2026 <br /> Flutningsmaður: atvvrh."
     },
     {
       "kind": "skjol",
       "title": "Skjal nr. 1120 - mál 191: raforkulög (raforkuviðskipti)",
       "link": "https://www.althingi.is/altext/157/s/1120.html?utm_medium=rss",
       "published": "2026-04-27",
-      "summary": "Lög frá Alþingi. Flutningsmaður: umhv.- og loftslrh."
+      "summary": "Lög frá Alþingi. Lög nr. 45/2026 <br /> Flutningsmaður: umhv.- og loftslrh."
     },
     {
       "kind": "skjol",
@@ -623,83 +700,6 @@
       "link": "https://www.althingi.is/altext/157/s/1106.html?utm_medium=rss",
       "published": "2026-04-22",
       "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: am"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1105 - mál 631: innheimta opinberra skatta og gjalda (vextir endurgreiðslu)",
-      "link": "https://www.althingi.is/altext/157/s/1105.html?utm_medium=rss",
-      "published": "2026-04-22",
-      "summary": "Frumvarp. Flutningsmaður: SÖH"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1091 - mál 629: utanríkis- og alþjóðamál 2025",
-      "link": "https://www.althingi.is/altext/157/s/1091.html?utm_medium=rss",
-      "published": "2026-04-22",
-      "summary": "Skýrsla rh. (frumskjal). Flutningsmaður: utanrrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1102 - mál 583: innflytjendur og atvinnustefna ríkisstjórnarinnar",
-      "link": "https://www.althingi.is/altext/157/s/1102.html?utm_medium=rss",
-      "published": "2026-04-21",
-      "summary": "Svar. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1104 - mál 80: sóttvarnalög",
-      "link": "https://www.althingi.is/altext/157/s/1104.html?utm_medium=rss",
-      "published": "2026-04-21",
-      "summary": "Lög frá Alþingi. Lög nr. 40/2026 <br /> Flutningsmaður: heilbrrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1103 - mál 79: vegabréfsáritanir",
-      "link": "https://www.althingi.is/altext/157/s/1103.html?utm_medium=rss",
-      "published": "2026-04-21",
-      "summary": "Lög frá Alþingi. Lög nr. 37/2026 <br /> Flutningsmaður: utanrrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1100 - mál 630: 1100 ára afmælis Alþingis minnst",
-      "link": "https://www.althingi.is/altext/157/s/1100.html?utm_medium=rss",
-      "published": "2026-04-21",
-      "summary": "Þáltill. n.. Flutningsmaður: forsn"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1092 - mál 337: samráð um stjórnarfrumvörp",
-      "link": "https://www.althingi.is/altext/157/s/1092.html?utm_medium=rss",
-      "published": "2026-04-21",
-      "summary": "Svar. Flutningsmaður: forsrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1101 - mál 146: staðfesting ríkisreiknings 2024",
-      "link": "https://www.althingi.is/altext/157/s/1101.html?utm_medium=rss",
-      "published": "2026-04-20",
-      "summary": "Nefndarálit. Lög nr. 38/2026 <br /> Flutningsmaður: fl"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1099 - mál 314: laun forseta Íslands og Stjórnarráð Íslands (forsetaritari, handhafalaun o.fl.)",
-      "link": "https://www.althingi.is/altext/157/s/1099.html?utm_medium=rss",
-      "published": "2026-04-20",
-      "summary": "Frumvarp eftir aðra umræðu. Lög nr. 41/2026 <br /> Flutningsmaður: forsrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1097 - mál 191: raforkulög (raforkuviðskipti)",
-      "link": "https://www.althingi.is/altext/157/s/1097.html?utm_medium=rss",
-      "published": "2026-04-20",
-      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: umhv.- og loftslrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1096 - mál 496: ákvarðanir nr. 332/2023 og 333/2023 um breytingu á XVII. viðauka við EES-samninginn o.fl. (hugverkaréttindi o.fl.)",
-      "link": "https://www.althingi.is/altext/157/s/1096.html?utm_medium=rss",
-      "published": "2026-04-20",
-      "summary": "Þál. í heild. Flutningsmaður: utanrrh."
     }
   ]
 }
