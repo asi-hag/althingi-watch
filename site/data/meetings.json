@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T09:48:48+00:00",
+  "generated_at": "2026-05-23T08:30:46+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3328,6 +3328,34 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-05-26 kl. 09:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28612",
+      "published": "2026-05-26",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-05-26 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28606",
+      "published": "2026-05-26",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-05-26 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28611",
+      "published": "2026-05-26",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-05-26 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28597",
+      "published": "2026-05-26",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "fjárlaganefnd — 2026-05-27 kl. 09:00 (Smiðja)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28593",
       "published": "2026-05-27",
@@ -3339,6 +3367,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28605",
       "published": "2026-05-27",
       "nefnd": "Íslandsdeild Vestnorræna ráðsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-05-28 kl. 13:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28616",
+      "published": "2026-05-28",
+      "nefnd": "fjárlaganefnd"
     }
   ]
 }
