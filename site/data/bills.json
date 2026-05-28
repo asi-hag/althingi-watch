@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-05-27T10:19:10+00:00",
+  "generated_at": "2026-05-28T10:33:14+00:00",
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1240 - mál 173: tekjuskattur og staðgreiðsla opinberra gjalda (erlendar fjárfestingar)",
+      "link": "https://www.althingi.is/altext/157/s/1240.html?utm_medium=rss",
+      "published": "2026-05-27",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: ev"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1237 - mál 616: arðsemismat samgöngusáttmála höfuðborgarsvæðisins",
+      "link": "https://www.althingi.is/altext/157/s/1237.html?utm_medium=rss",
+      "published": "2026-05-27",
+      "summary": "Svar. Flutningsmaður: innvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1235 - mál 621: aðgengi Íslands að kaupskipum á háskatímum",
+      "link": "https://www.althingi.is/altext/157/s/1235.html?utm_medium=rss",
+      "published": "2026-05-27",
+      "summary": "Svar. Flutningsmaður: innvrh."
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 1238 - mál 328: sjúkratryggingar og ófrjósemisaðgerðir (ýmsar breytingar)",
@@ -661,20 +682,6 @@
     },
     {
       "kind": "skjol",
-      "title": "Skjal nr. 1146 - mál 511: þjóðfáni Íslendinga og ríkisskjaldarmerkið (fánatími)",
-      "link": "https://www.althingi.is/altext/157/s/1146.html?utm_medium=rss",
-      "published": "2026-04-29",
-      "summary": "Lög frá Alþingi. Lög nr. 42/2026 <br /> Flutningsmaður: se"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1145 - mál 607: virðisaukaskattur og samkeppnislög (skatthlutfall eldsneytis)",
-      "link": "https://www.althingi.is/altext/157/s/1145.html?utm_medium=rss",
-      "published": "2026-04-29",
-      "summary": "Frumvarp eftir aðra umræðu. Lög nr. 34/2026 <br /> Flutningsmaður: fjmrh."
-    },
-    {
-      "kind": "skjol",
       "title": "Skjal nr. 1144 - mál 514: fullnusta refsinga (brottvísun og afplánun erlendra fanga)",
       "link": "https://www.althingi.is/altext/157/s/1144.html?utm_medium=rss",
       "published": "2026-04-29",
@@ -693,13 +700,6 @@
       "link": "https://www.althingi.is/altext/157/s/1142.html?utm_medium=rss",
       "published": "2026-04-29",
       "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: am"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1141 - mál 636: uppbygging orkumannvirkja og átak til atvinnuuppbyggingar á Norðurlandi vestra",
-      "link": "https://www.althingi.is/altext/157/s/1141.html?utm_medium=rss",
-      "published": "2026-04-29",
-      "summary": "Þáltill.. Flutningsmaður: ÓA"
     }
   ]
 }
