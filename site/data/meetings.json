@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:13:20+00:00",
+  "generated_at": "2026-05-30T08:40:11+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3454,10 +3454,31 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-05-30 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28639",
+      "published": "2026-05-30",
+      "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-05-30 kl. 09:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28653",
+      "published": "2026-05-30",
+      "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "fjárlaganefnd — 2026-06-01 kl. 09:30 (Smiðja 1. hæð)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28608",
       "published": "2026-06-01",
       "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "Íslandsdeild Vestnorræna ráðsins — 2026-06-01 kl. 16:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28605",
+      "published": "2026-06-01",
+      "nefnd": "Íslandsdeild Vestnorræna ráðsins"
     }
   ]
 }

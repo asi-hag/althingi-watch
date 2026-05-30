@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-05-29T10:13:20+00:00",
+  "generated_at": "2026-05-30T08:40:11+00:00",
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1244 - mál 230: brottfararstöð",
+      "link": "https://www.althingi.is/altext/157/s/1244.html?utm_medium=rss",
+      "published": "2026-05-29",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: am"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1243 - mál 300: rýni á fjárfestingum erlendra aðila vegna þjóðaröryggis og allsherjarreglu",
+      "link": "https://www.althingi.is/altext/157/s/1243.html?utm_medium=rss",
+      "published": "2026-05-29",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: ev"
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 1245 - mál 516: þjóðaratkvæðagreiðsla um framhald viðræðna um aðild Íslands að Evrópusambandinu",
@@ -686,20 +700,6 @@
       "link": "https://www.althingi.is/altext/157/s/1149.html?utm_medium=rss",
       "published": "2026-04-30",
       "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞSæm"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1148 - mál 637: rekstur Þjóðleikhússins",
-      "link": "https://www.althingi.is/altext/157/s/1148.html?utm_medium=rss",
-      "published": "2026-04-30",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞSæm"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1147 - mál 607: virðisaukaskattur og samkeppnislög (skatthlutfall eldsneytis)",
-      "link": "https://www.althingi.is/altext/157/s/1147.html?utm_medium=rss",
-      "published": "2026-04-29",
-      "summary": "Lög frá Alþingi. Lög nr. 34/2026 <br /> Flutningsmaður: fjmrh."
     }
   ]
 }
