@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T10:53:48+00:00",
+  "generated_at": "2026-06-03T11:21:48+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3531,10 +3531,17 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "fjárlaganefnd — 2026-06-02 (í Færeyska herberginu í Skála)",
+      "title": "fjárlaganefnd — 2026-06-02 (í Færeyska herberginu í Skála strax að loknum atkvæðagreiðslum)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28660",
       "published": "2026-06-02",
       "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-06-03 kl. 09:15 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28662",
+      "published": "2026-06-03",
+      "nefnd": "utanríkismálanefnd"
     },
     {
       "kind": "nefndarfundur",
