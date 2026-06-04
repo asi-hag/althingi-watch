@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T11:21:48+00:00",
+  "generated_at": "2026-06-04T10:11:09+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3391,7 +3391,7 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "efnahags- og viðskiptanefnd — 2026-05-28 kl. 08:40 (í Smiðju)",
+      "title": "efnahags- og viðskiptanefnd — 2026-05-28 kl. 08:40 (Smiðja)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28618",
       "published": "2026-05-28",
       "nefnd": "efnahags- og viðskiptanefnd"
@@ -3549,6 +3549,20 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28661",
       "published": "2026-06-03",
       "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-06-03 kl. 14:55 (í færeyska herberginu)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28664",
+      "published": "2026-06-03",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-06-05 kl. 08:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28657",
+      "published": "2026-06-05",
+      "nefnd": "allsherjar- og menntamálanefnd"
     }
   ]
 }
