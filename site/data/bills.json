@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-06-09T10:01:44+00:00",
+  "generated_at": "2026-06-10T10:31:12+00:00",
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1320 - mál 553: stafrænt fullveldi Íslands",
+      "link": "https://www.althingi.is/altext/157/s/1320.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Svar. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1340 - mál 230: brottfararstöð",
+      "link": "https://www.althingi.is/altext/157/s/1340.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Lög frá Alþingi. Flutningsmaður: dómsmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1336 - mál 578: hlutlægir mælikvarðar, hæfismat og staða forstjóra Sjúkrahússins á Akureyri",
+      "link": "https://www.althingi.is/altext/157/s/1336.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Svar. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1325 - mál 618: afkastageta Sæbrautar",
+      "link": "https://www.althingi.is/altext/157/s/1325.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Svar. Flutningsmaður: innvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1337 - mál 317: opinberir háskólar (gjaldtökuheimildir)",
+      "link": "https://www.althingi.is/altext/157/s/1337.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Nefndarálit. Flutningsmaður: am"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1338 - mál 594: útlendingar og lögreglulög (verndarsamkomulag Evrópusambandsins)",
+      "link": "https://www.althingi.is/altext/157/s/1338.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Lög frá Alþingi. Flutningsmaður: dómsmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1333 - mál 708: útgáfa frímerkja í tilefni af 1100 ára afmæli Alþingis",
+      "link": "https://www.althingi.is/altext/157/s/1333.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: KGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1332 - mál 707: útgáfa frímerkja",
+      "link": "https://www.althingi.is/altext/157/s/1332.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: KGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1316 - mál 557: búvörusamningar",
+      "link": "https://www.althingi.is/altext/157/s/1316.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Svar. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1315 - mál 442: bílastæðagjöld á ferðamannastöðum",
+      "link": "https://www.althingi.is/altext/157/s/1315.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Svar. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1308 - mál 549: stafrænt fullveldi Íslands",
+      "link": "https://www.althingi.is/altext/157/s/1308.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Svar. Flutningsmaður: mennrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1335 - mál 535: innviðafélag",
+      "link": "https://www.althingi.is/altext/157/s/1335.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Breytingartillaga. Flutningsmaður: JGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 1334 - mál 594: útlendingar og lögreglulög (verndarsamkomulag Evrópusambandsins)",
+      "link": "https://www.althingi.is/altext/157/s/1334.html?utm_medium=rss",
+      "published": "2026-06-09",
+      "summary": "Nefndarálit. Flutningsmaður: am"
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 1331 - mál 706: hjónavígslur hjá sýslumanni",
@@ -609,97 +700,6 @@
       "link": "https://www.althingi.is/altext/157/s/1241.html?utm_medium=rss",
       "published": "2026-05-28",
       "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: ev"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1240 - mál 173: tekjuskattur og staðgreiðsla opinberra gjalda (erlendar fjárfestingar)",
-      "link": "https://www.althingi.is/altext/157/s/1240.html?utm_medium=rss",
-      "published": "2026-05-27",
-      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: ev"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1237 - mál 616: arðsemismat samgöngusáttmála höfuðborgarsvæðisins",
-      "link": "https://www.althingi.is/altext/157/s/1237.html?utm_medium=rss",
-      "published": "2026-05-27",
-      "summary": "Svar. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1235 - mál 621: aðgengi Íslands að kaupskipum á háskatímum",
-      "link": "https://www.althingi.is/altext/157/s/1235.html?utm_medium=rss",
-      "published": "2026-05-27",
-      "summary": "Svar. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1238 - mál 328: sjúkratryggingar og ófrjósemisaðgerðir (ýmsar breytingar)",
-      "link": "https://www.althingi.is/altext/157/s/1238.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Breytingartillaga. Flutningsmaður: KÞS"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1236 - mál 443: Miðstöð menntunar og skólaþjónustu o.fl. (miðlægur nemendagrunnur)",
-      "link": "https://www.althingi.is/altext/157/s/1236.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: am"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1234 - mál 673: staða heimilislækna og aðgengi að heilsugæslu",
-      "link": "https://www.althingi.is/altext/157/s/1234.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: IIsak"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1233 - mál 672: lokanir í Hvalfjarðargöngum",
-      "link": "https://www.althingi.is/altext/157/s/1233.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÓA"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1232 - mál 671: umferðarstjórn í Hvalfjarðargöngum vegna sólmyrkva",
-      "link": "https://www.althingi.is/altext/157/s/1232.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÓA"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1231 - mál 320: opinber stuðningur við vísindi og nýsköpun",
-      "link": "https://www.althingi.is/altext/157/s/1231.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Breytingartillaga. Flutningsmaður: GAS"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1230 - mál 516: þjóðaratkvæðagreiðsla um framhald viðræðna um aðild Íslands að Evrópusambandinu",
-      "link": "https://www.althingi.is/altext/157/s/1230.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Breytingartillaga. Flutningsmaður: DME"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1229 - mál 516: þjóðaratkvæðagreiðsla um framhald viðræðna um aðild Íslands að Evrópusambandinu",
-      "link": "https://www.althingi.is/altext/157/s/1229.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Breytingartillaga. Flutningsmaður: DME"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1228 - mál 637: rekstur Þjóðleikhússins",
-      "link": "https://www.althingi.is/altext/157/s/1228.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Svar. Flutningsmaður: mennrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 1189 - mál 461: hagræðing í ríkisrekstri",
-      "link": "https://www.althingi.is/altext/157/s/1189.html?utm_medium=rss",
-      "published": "2026-05-26",
-      "summary": "Svar. Flutningsmaður: dómsmrh."
     }
   ]
 }
