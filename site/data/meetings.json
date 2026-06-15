@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T09:55:12+00:00",
+  "generated_at": "2026-06-15T12:41:07+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3696,6 +3696,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28694",
       "published": "2026-06-13",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "atvinnuveganefnd — 2026-06-15 kl. 09:30 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28698",
+      "published": "2026-06-15",
+      "nefnd": "atvinnuveganefnd"
     }
   ]
 }
