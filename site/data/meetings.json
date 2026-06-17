@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T11:32:53+00:00",
+  "generated_at": "2026-06-17T11:16:14+00:00",
   "items": [
     {
       "kind": "nefndarfundur",
@@ -3703,6 +3703,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28698",
       "published": "2026-06-15",
       "nefnd": "atvinnuveganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-06-18 kl. 09:30 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28704",
+      "published": "2026-06-18",
+      "nefnd": "fjárlaganefnd"
     }
   ]
 }
