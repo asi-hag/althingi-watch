@@ -1,12 +1,103 @@
 {
-  "generated_at": "2026-09-10T11:17:21+00:00",
+  "generated_at": "2026-09-11T11:19:04+00:00",
   "items": [
     {
       "kind": "skjol",
-      "title": "Skjal nr. 24 - mál 24: barnalög og tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til stofnfrumurannsókna (einföldun regluverks)",
-      "link": "https://www.althingi.is/altext/158/s/24.html?utm_medium=rss",
+      "title": "Skjal nr. 25 - mál 25: ársreikningar (stærðarmörk og endurskoðun ársreikninga)",
+      "link": "https://www.althingi.is/altext/158/s/25.html?utm_medium=rss",
+      "published": "2026-09-11",
+      "summary": "Frumvarp. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 28 - mál 28: réttindi og skyldur starfsmanna ríkisins (áminningar og setning embættismanna um stundarsakir)",
+      "link": "https://www.althingi.is/altext/158/s/28.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Frumvarp. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 9 - mál 9: erfðafjárskattur og tekjuskattur (afnám erfðafjárskatts)",
+      "link": "https://www.althingi.is/altext/158/s/9.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Frumvarp. Flutningsmaður: RGuðb"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 17 - mál 17: mannvirki (byggingarstjórar)",
+      "link": "https://www.althingi.is/altext/158/s/17.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Frumvarp. Flutningsmaður: BHar"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 20 - mál 20: þingfararkaup alþingismanna og þingfararkostnaður (leyfi frá opinberu starfi)",
+      "link": "https://www.althingi.is/altext/158/s/20.html?utm_medium=rss",
       "published": "2026-09-10",
       "summary": "Frumvarp. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 19 - mál 19: flýtiframkvæmd vatnsaflsvirkjana",
+      "link": "https://www.althingi.is/altext/158/s/19.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Frumvarp. Flutningsmaður: JGunn"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 16 - mál 16: skipun nefndar til að greina sóttvarnaaðgerðir stjórnvalda í heimsfaraldri kórónuveirunnar",
+      "link": "https://www.althingi.is/altext/158/s/16.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Þáltill.. Flutningsmaður: SÖH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 10 - mál 10: fríverslun milli Íslands, Noregs, Grænlands, Færeyja, Bretlands, Bandaríkjanna og Kanada o.fl.",
+      "link": "https://www.althingi.is/altext/158/s/10.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Þáltill.. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 55 - mál 55: eyðing minks í íslenskri náttúru",
+      "link": "https://www.althingi.is/altext/158/s/55.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Þáltill.. Flutningsmaður: KGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 32 - mál 32: virðisaukaskattur (sjálfstætt starfandi skólar)",
+      "link": "https://www.althingi.is/altext/158/s/32.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Frumvarp. Flutningsmaður: BHar"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 18 - mál 18: útvistun heilbrigðiseftirlits",
+      "link": "https://www.althingi.is/altext/158/s/18.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Þáltill.. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 36 - mál 36: bann við hulningu andlits",
+      "link": "https://www.althingi.is/altext/158/s/36.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Þáltill.. Flutningsmaður: KGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 22 - mál 22: myndlistarlög (framlag til listaverka í nýbyggingum)",
+      "link": "https://www.althingi.is/altext/158/s/22.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Frumvarp. Flutningsmaður: JGunn"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 15 - mál 15: starfsemi stjórnmálasamtaka og tekjuskattur (framlög hins opinbera til stjórnmálastarfsemi)",
+      "link": "https://www.althingi.is/altext/158/s/15.html?utm_medium=rss",
+      "published": "2026-09-10",
+      "summary": "Frumvarp. Flutningsmaður: DME"
     },
     {
       "kind": "skjol",
