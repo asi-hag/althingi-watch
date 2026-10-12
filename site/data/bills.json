@@ -1,4 +1,705 @@
 {
-  "generated_at": "2026-10-11T12:47:15+00:00",
-  "items": []
+  "generated_at": "2026-10-12T15:21:10+00:00",
+  "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 213 - mál 205: almannatryggingar (eingreiðsla og orlofs- og desemberuppbót)",
+      "link": "https://www.althingi.is/altext/158/s/213.html?utm_medium=rss",
+      "published": "2026-10-10",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: fél.- og húsnrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 212 - mál 204: dómstólar (aðsetur Landsréttar o.fl.)",
+      "link": "https://www.althingi.is/altext/158/s/212.html?utm_medium=rss",
+      "published": "2026-10-10",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: dómsmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 211 - mál 203: varnir gegn mengun hafs og stranda (leyfisveitingar vegna vísindarannsókna í hafi)",
+      "link": "https://www.althingi.is/altext/158/s/211.html?utm_medium=rss",
+      "published": "2026-10-10",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: umhv.- og loftslrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 210 - mál 202: loftslagslög",
+      "link": "https://www.althingi.is/altext/158/s/210.html?utm_medium=rss",
+      "published": "2026-10-10",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: umhv.- og loftslrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 209 - mál 201: fjarskipti (innleiðing EES-gerða)",
+      "link": "https://www.althingi.is/altext/158/s/209.html?utm_medium=rss",
+      "published": "2026-10-10",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: innvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 208 - mál 200: útgjöld til viðhalds og nýframkvæmda í vegakerfinu",
+      "link": "https://www.althingi.is/altext/158/s/208.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: SIJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 207 - mál 199: fæðuöryggi og innlend matvælaframleiðsla",
+      "link": "https://www.althingi.is/altext/158/s/207.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Þáltill.. Flutningsmaður: IngD"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 204 - mál 197: rekstrarstaða Heilbrigðisstofnunar Vesturlands",
+      "link": "https://www.althingi.is/altext/158/s/204.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÓA"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 203 - mál 196: farnetsþjónusta eftir útfösun 2G-- og 3G--netkerfa",
+      "link": "https://www.althingi.is/altext/158/s/203.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: IAS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 198 - mál 191: endurmat á fjárhagslegum áhrifum ríkisaðgerða á sveitarfélög",
+      "link": "https://www.althingi.is/altext/158/s/198.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: RagnhJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 202 - mál 195: skuldir og vaxtakostnaður fyrirtækja",
+      "link": "https://www.althingi.is/altext/158/s/202.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 200 - mál 193: mat og innleiðings stafrænna heilbrigðislausna",
+      "link": "https://www.althingi.is/altext/158/s/200.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: RagnhJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 201 - mál 194: framkvæmd nýs fyrirkomulags jafnlaunamála",
+      "link": "https://www.althingi.is/altext/158/s/201.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: RagnhJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 199 - mál 192: eftirfylgni með fjárhagslegu mati lagasetningar",
+      "link": "https://www.althingi.is/altext/158/s/199.html?utm_medium=rss",
+      "published": "2026-10-08",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: RagnhJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 196 - mál 96: vinsælir áfangastaðir ferðamanna í eigu ríkisins",
+      "link": "https://www.althingi.is/altext/158/s/196.html?utm_medium=rss",
+      "published": "2026-10-07",
+      "summary": "Svar. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 197 - mál 120: hagsmunagæsla í tengslum við EES-samninginn",
+      "link": "https://www.althingi.is/altext/158/s/197.html?utm_medium=rss",
+      "published": "2026-10-07",
+      "summary": "Svar. Flutningsmaður: utanrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 194 - mál 122: Evrópusambandið og aðlögunarstyrkir",
+      "link": "https://www.althingi.is/altext/158/s/194.html?utm_medium=rss",
+      "published": "2026-10-07",
+      "summary": "Svar. Flutningsmaður: utanrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 195 - mál 190: lyfjalög (lausasala lyfja)",
+      "link": "https://www.althingi.is/altext/158/s/195.html?utm_medium=rss",
+      "published": "2026-10-07",
+      "summary": "Frumvarp. Flutningsmaður: IngÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 193 - mál 189: viðbrögð við ábendingum Ríkisendurskoðunar um sjókvíaeldi",
+      "link": "https://www.althingi.is/altext/158/s/193.html?utm_medium=rss",
+      "published": "2026-10-07",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HHL"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 192 - mál 188: þjóðaröryggi og aðfangakeðjur skipaflutninga",
+      "link": "https://www.althingi.is/altext/158/s/192.html?utm_medium=rss",
+      "published": "2026-10-07",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: BHar"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 191 - mál 85: Bókasafnssjóður höfunda",
+      "link": "https://www.althingi.is/altext/158/s/191.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Svar. Flutningsmaður: mennrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 187 - mál 185: framkvæmd tillagna OECD um úrbætur á regluverki í byggingariðnaði",
+      "link": "https://www.althingi.is/altext/158/s/187.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Beiðni um skýrslu. Flutningsmaður: RagnhJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 189 - mál 187: staða Íslands gagnvart Evrópusambandinu",
+      "link": "https://www.althingi.is/altext/158/s/189.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Þáltill.. Flutningsmaður: GHaf"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 186 - mál 184: framkvæmd tillagna OECD um úrbætur á regluverki í ferðaþjónustu",
+      "link": "https://www.althingi.is/altext/158/s/186.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Beiðni um skýrslu. Flutningsmaður: RagnhJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 190 - mál 90: greiðsluþátttaka sjúkratryggðra",
+      "link": "https://www.althingi.is/altext/158/s/190.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Svar. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 188 - mál 186: skattfrádráttur vegna kostnaðar við ferðir til og frá vinnu",
+      "link": "https://www.althingi.is/altext/158/s/188.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Þáltill.. Flutningsmaður: SIJ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 185 - mál 183: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/185.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 184 - mál 182: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/184.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 183 - mál 181: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/183.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 182 - mál 180: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/182.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 181 - mál 179: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/181.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 180 - mál 178: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/180.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 179 - mál 177: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/179.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 178 - mál 176: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/178.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 177 - mál 175: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/177.html?utm_medium=rss",
+      "published": "2026-10-06",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 166 - mál 164: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/166.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 165 - mál 163: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/165.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 170 - mál 168: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/170.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 164 - mál 162: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/164.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 171 - mál 169: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/171.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 172 - mál 170: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/172.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 163 - mál 161: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/163.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 169 - mál 167: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/169.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 168 - mál 166: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/168.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 162 - mál 160: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/162.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 167 - mál 165: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/167.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 155 - mál 154: stéttarfélög og vinnudeilur (staða og valdheimildir ríkissáttasemjara)",
+      "link": "https://www.althingi.is/altext/158/s/155.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Frumvarp. Flutningsmaður: JGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 175 - mál 173: kerfi í fjarskiptum ríkisins",
+      "link": "https://www.althingi.is/altext/158/s/175.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 176 - mál 174: kerfi í fjarskiptum ríkisins",
+      "link": "https://www.althingi.is/altext/158/s/176.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 161 - mál 159: staða íslenskrar tungu og íslensks táknmáls og réttindi sjúklinga (túlkaþjónusta)",
+      "link": "https://www.althingi.is/altext/158/s/161.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Frumvarp. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 174 - mál 172: eignir, skuldir og skuldbindingar Ganga og brúar ohf.",
+      "link": "https://www.althingi.is/altext/158/s/174.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÓA"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 173 - mál 171: fjármögnun Fljótaganga",
+      "link": "https://www.althingi.is/altext/158/s/173.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÓA"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 159 - mál 158: ákvarðanir nr. 283/2026 um breytingu á XX. viðauka við EES-samninginn o.fl. (Umhverfismál)",
+      "link": "https://www.althingi.is/altext/158/s/159.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Stjórnartillaga. Flutningsmaður: utanrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 160 - mál 1: fjárlög 2027",
+      "link": "https://www.althingi.is/altext/158/s/160.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Breytingartillaga. Flutningsmaður: GHaf"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 154 - mál 153: kortlagning á velferðarumhverfi barna og fjölskyldna þeirra",
+      "link": "https://www.althingi.is/altext/158/s/154.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Beiðni um skýrslu. Flutningsmaður: ÁBH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 149 - mál 149: ójöfnuður, félagslegt landslag og félagslegur hreyfanleiki á Íslandi",
+      "link": "https://www.althingi.is/altext/158/s/149.html?utm_medium=rss",
+      "published": "2026-10-05",
+      "summary": "Beiðni um skýrslu. Flutningsmaður: DBE"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 158 - mál 157: húsaleigulög (reglubundnar breytingar á leigufjárhæð)",
+      "link": "https://www.althingi.is/altext/158/s/158.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: fél.- og húsnrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 157 - mál 156: Byggðastofnun (lagfæringar)",
+      "link": "https://www.althingi.is/altext/158/s/157.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: innvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 156 - mál 155: varfærniskröfur til verðbréfafyrirtækja",
+      "link": "https://www.althingi.is/altext/158/s/156.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: fjmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 153 - mál 152: fæðingar- og foreldraorlof og sorgarleyfi (viðmiðunartímabil)",
+      "link": "https://www.althingi.is/altext/158/s/153.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Frumvarp. Flutningsmaður: BHar"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 152 - mál 151: föst starfsstöð þyrlu Landhelgisgæslunnar á Akureyri",
+      "link": "https://www.althingi.is/altext/158/s/152.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Þáltill.. Flutningsmaður: NTF"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 151 - mál 94: kynjasjónarmið í heilbrigðisþjónustu",
+      "link": "https://www.althingi.is/altext/158/s/151.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Svar. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 150 - mál 150: fjölgun ferða í Loftbrú",
+      "link": "https://www.althingi.is/altext/158/s/150.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Þáltill.. Flutningsmaður: ÞorgS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 148 - mál 148: réttindi og skyldur starfsmanna ríkisins (staða sóttvarnalæknis)",
+      "link": "https://www.althingi.is/altext/158/s/148.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Frumvarp nefndar. Flutningsmaður: vf"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 147 - mál 147: landlæknir og lýðheilsa (heilbrigðisskrár)",
+      "link": "https://www.althingi.is/altext/158/s/147.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Frumvarp nefndar. Flutningsmaður: vf"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 107 - mál 107: aðför og nauðungarsala (sala á almennum markaði í stað uppboðs)",
+      "link": "https://www.althingi.is/altext/158/s/107.html?utm_medium=rss",
+      "published": "2026-10-03",
+      "summary": "Frumvarp. Flutningsmaður: ÁLÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 146 - mál 146: greiðsluþátttaka vegna veikinda og slysa utan EEES",
+      "link": "https://www.althingi.is/altext/158/s/146.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÁrnH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 140 - mál 140: áhættumat vegna náttúruvár á strandsvæðum",
+      "link": "https://www.althingi.is/altext/158/s/140.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HHL"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 145 - mál 145: augasteinaaðgerðir",
+      "link": "https://www.althingi.is/altext/158/s/145.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: KÁB"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 139 - mál 139: endurskoðun áhættumats erfðablöndunar",
+      "link": "https://www.althingi.is/altext/158/s/139.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HHL"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 138 - mál 138: strandsvæðisskipulag Austfjarða og leyfisveitingar í Seyðisfirði",
+      "link": "https://www.althingi.is/altext/158/s/138.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HHL"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 144 - mál 144: atvinnumannahnefaleikar",
+      "link": "https://www.althingi.is/altext/158/s/144.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: JúlÓ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 143 - mál 143: kostnaður vegna aðkeyptrar vinnu Samkeppniseftirlitsins",
+      "link": "https://www.althingi.is/altext/158/s/143.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: JúlÓ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 142 - mál 142: framtíðaraðstaða Landhelgisgæslunnar í Njarðvík",
+      "link": "https://www.althingi.is/altext/158/s/142.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: JúlÓ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 141 - mál 141: búseta einstaklinga með alþjóðlega vernd og dvalarleyfi af mannúðarástæðum",
+      "link": "https://www.althingi.is/altext/158/s/141.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: JúlÓ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 137 - mál 137: reglugerð nr. 700/2026",
+      "link": "https://www.althingi.is/altext/158/s/137.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: BHar"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 135 - mál 135: áfengislög (vefverslun með áfengi)",
+      "link": "https://www.althingi.is/altext/158/s/135.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Frumvarp. Flutningsmaður: PawB"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 130 - mál 130: íslensk alþjóðleg skipaskrá",
+      "link": "https://www.althingi.is/altext/158/s/130.html?utm_medium=rss",
+      "published": "2026-09-24",
+      "summary": "Þáltill.. Flutningsmaður: JGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 136 - mál 136: kostnaðaráhrif reglugerðar um notkun síma og snjalltækja á skólatíma",
+      "link": "https://www.althingi.is/altext/158/s/136.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞorgS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 129 - mál 129: skattaívilnanir til kaupskipa",
+      "link": "https://www.althingi.is/altext/158/s/129.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Þáltill.. Flutningsmaður: JGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 134 - mál 134: Evrópska efnahagssvæðið (bókun 35)",
+      "link": "https://www.althingi.is/altext/158/s/134.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: utanrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 132 - mál 132: landsáætlun vegna sjaldgæfra sjúkdóma fyrir árin 2027--2031",
+      "link": "https://www.althingi.is/altext/158/s/132.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Stjórnartillaga. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 131 - mál 131: aðgerðaáætlun vegna offitu á Íslandi fyrir árin 2026--2030",
+      "link": "https://www.althingi.is/altext/158/s/131.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Stjórnartillaga. Flutningsmaður: heilbrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 133 - mál 133: Hagstofa Íslands og opinber hagskýrslugerð (brottfall sjálfstæðrar rannsóknareiningar)",
+      "link": "https://www.althingi.is/altext/158/s/133.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: forsrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 119 - mál 119: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/119.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 118 - mál 118: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/118.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 117 - mál 117: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/117.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 116 - mál 116: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/116.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 115 - mál 115: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/115.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 114 - mál 114: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/114.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 113 - mál 113: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/113.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 112 - mál 112: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/112.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 111 - mál 111: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/111.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 11 - mál 11: verslun með áfengi og tóbak o.fl. (smásala áfengis)",
+      "link": "https://www.althingi.is/altext/158/s/11.html?utm_medium=rss",
+      "published": "2026-09-22",
+      "summary": "Frumvarp. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 110 - mál 110: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/110.html?utm_medium=rss",
+      "published": "2026-09-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 109 - mál 109: auglýsingar",
+      "link": "https://www.althingi.is/altext/158/s/109.html?utm_medium=rss",
+      "published": "2026-09-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: HildS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 126 - mál 126: skuldbindingar Betri samgangna",
+      "link": "https://www.althingi.is/altext/158/s/126.html?utm_medium=rss",
+      "published": "2026-09-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 128 - mál 128: veggjöld innan samgöngusáttmála höfuðborgarsvæðisins",
+      "link": "https://www.althingi.is/altext/158/s/128.html?utm_medium=rss",
+      "published": "2026-09-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 125 - mál 125: fjármögnun samgöngusáttmála höfuðborgarsvæðisins á framkvæmdatíma",
+      "link": "https://www.althingi.is/altext/158/s/125.html?utm_medium=rss",
+      "published": "2026-09-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 127 - mál 127: uppbygging flugtengdrar mennta- og þekkingarstarfsemi á Reykjavíkurflugvelli",
+      "link": "https://www.althingi.is/altext/158/s/127.html?utm_medium=rss",
+      "published": "2026-09-21",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: GÞÞ"
+    }
+  ]
 }
