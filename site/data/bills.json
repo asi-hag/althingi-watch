@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-11T14:18:14+00:00",
+  "generated_at": "2026-11-12T11:19:52+00:00",
+  "lthing": 158,
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 404 - mál 79: hlutafélög og einkahlutafélög (EES-innleiðing)",
+      "link": "https://www.althingi.is/altext/158/s/404.html?utm_medium=rss",
+      "published": "2026-11-11",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: ev"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 403 - mál 325: heiðurstengt ofbeldi",
+      "link": "https://www.althingi.is/altext/158/s/403.html?utm_medium=rss",
+      "published": "2026-11-11",
+      "summary": "Fsp. til munnl. svars. Flutningsmaður: DME"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 402 - mál 324: úthlutun stöðugilda vegna aðgerða gegn skipulagðri brotastarfsemi",
+      "link": "https://www.althingi.is/altext/158/s/402.html?utm_medium=rss",
+      "published": "2026-11-11",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞorgS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 401 - mál 78: barnavernd",
+      "link": "https://www.althingi.is/altext/158/s/401.html?utm_medium=rss",
+      "published": "2026-11-11",
+      "summary": "Frumvarp eftir aðra umræðu. Flutningsmaður: mennta- og barnamrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 400 - mál 75: stefna og framkvæmdaáætlun um samþættingu þjónustu í þágu farsældar barna til ársins 2030",
+      "link": "https://www.althingi.is/altext/158/s/400.html?utm_medium=rss",
+      "published": "2026-11-11",
+      "summary": "Þál. í heild. Flutningsmaður: mennta- og barnamrh."
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 399 - mál 172: eignir, skuldir og skuldbindingar Ganga og brúar ohf.",
@@ -665,41 +701,6 @@
       "link": "https://www.althingi.is/altext/158/s/307.html?utm_medium=rss",
       "published": "2026-10-22",
       "summary": "Lög frá Alþingi. Lög nr. 98/2026 <br /> Flutningsmaður: umhv.- og loftslrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 306 - mál 278: búnaðarkaup sérsveitar lögreglu og kostnaður vegna hans",
-      "link": "https://www.althingi.is/altext/158/s/306.html?utm_medium=rss",
-      "published": "2026-10-22",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: SIJ"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 305 - mál 277: tölfræði um innflytjendur",
-      "link": "https://www.althingi.is/altext/158/s/305.html?utm_medium=rss",
-      "published": "2026-10-22",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 304 - mál 276: tölfræði um innflytjendur",
-      "link": "https://www.althingi.is/altext/158/s/304.html?utm_medium=rss",
-      "published": "2026-10-22",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 303 - mál 275: tölfræði um stöðu hópa eftir þjóðerni",
-      "link": "https://www.althingi.is/altext/158/s/303.html?utm_medium=rss",
-      "published": "2026-10-22",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DME"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 300 - mál 3: menningarminjar og mannvirki (álit Minjastofnunar Íslands vegna húsa og mannvirkja)",
-      "link": "https://www.althingi.is/altext/158/s/300.html?utm_medium=rss",
-      "published": "2026-10-22",
-      "summary": "Breytingartillaga. Lög nr. 98/2026 <br /> Flutningsmaður: VíðR"
     }
   ]
 }
