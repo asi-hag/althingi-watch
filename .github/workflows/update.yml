@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "15 6 * * *"  # 06:15 UTC daglega (Reykjavík)
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - "site/data/**"
 
 permissions:
   contents: write
