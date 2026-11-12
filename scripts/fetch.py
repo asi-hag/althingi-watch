@@ -13,7 +13,8 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 RSS_BILLS = "https://www.althingi.is/rss/frettir.rss?feed=skjol"
 RSS_CONSULT = "https://www.althingi.is/rss/frettir.rss?feed=umsagnarbeidnir"
-MEETINGS_XML = "https://www.althingi.is/altext/xml/nefndarfundir/?lthing=157"
+MEETINGS_XML = "https://www.althingi.is/altext/xml/nefndarfundir/?lthing={lthing}"
+CURRENT_THING_XML = "https://www.althingi.is/altext/xml/loggjafarthing/yfirstandandi/"
 
 def now_iso():
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
@@ -46,10 +47,30 @@ def parse_rss(url: str, kind: str):
         })
     return items
 
-def fetch_meetings_xml():
-    """Sækir nefndarfundi úr Althingi XML API."""
+def current_lthing(*item_lists):
+    """Finnur núverandi löggjafarþing: hæsta ltg-gildi í RSS-hlekkjum og
+    XML-vefþjónustu Alþingis (yfirstandandi þing); tekur hærra gildið."""
+    nums = [int(m) for items in item_lists for x in items
+            for m in re.findall(r"[?&]ltg=(\d+)", x.get("link", ""))]
     try:
-        r = requests.get(MEETINGS_XML, timeout=30)
+        r = requests.get(CURRENT_THING_XML, timeout=30)
+        r.raise_for_status()
+        root = ET.fromstring(r.content)
+        for el in root.iter():
+            num = el.get("númer") or el.get("numer")
+            if num and num.isdigit() and 100 < int(num) < 300:
+                nums.append(int(num))
+                break
+    except Exception:
+        pass
+    return max(nums) if nums else None
+
+def fetch_meetings_xml(lthing):
+    """Sækir nefndarfundi úr Althingi XML API."""
+    if not lthing:
+        return []
+    try:
+        r = requests.get(MEETINGS_XML.format(lthing=lthing), timeout=30)
         r.raise_for_status()
     except Exception:
         return []
@@ -96,9 +117,11 @@ def write_json(path: Path, payload):
 def main():
     bills = parse_rss(RSS_BILLS, "skjol")
     consultations = parse_rss(RSS_CONSULT, "umsagnarbeidnir")
-    meetings = fetch_meetings_xml()
+    lthing = current_lthing(bills, consultations)
+    print(f"Löggjafarþing: {lthing}")
+    meetings = fetch_meetings_xml(lthing)
 
-    out = {"generated_at": now_iso()}
+    out = {"generated_at": now_iso(), "lthing": lthing}
 
     write_json(DATA_DIR / "bills.json", {**out, "items": bills})
     write_json(DATA_DIR / "consultations.json", {**out, "items": consultations})

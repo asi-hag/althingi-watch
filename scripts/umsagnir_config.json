@@ -1,0 +1,25 @@
+{
+  "_lysing": "Samtök sem fylgst er með. 'patterns' eru leitarorð (lágstafir, heil orð) sem borin eru saman við nöfn viðtakenda umsagnarbeiðna og sendenda erinda. Bættu við eða fjarlægðu að vild.",
+  "groups": {
+    "asi": "ASÍ",
+    "atvinnurekendur": "Atvinnurekendur og hagsmunasamtök fyrirtækja",
+    "launafolk": "Önnur samtök launafólks"
+  },
+  "orgs": [
+    {"key": "ASI",  "label": "ASÍ", "group": "asi", "patterns": ["alþýðusamband íslands", "así"]},
+
+    {"key": "SA",   "label": "SA",  "group": "atvinnurekendur", "patterns": ["samtök atvinnulífsins"]},
+    {"key": "VI",   "label": "Viðskiptaráð", "group": "atvinnurekendur", "patterns": ["viðskiptaráð íslands", "viðskiptaráð"]},
+    {"key": "SI",   "label": "SI",  "group": "atvinnurekendur", "patterns": ["samtök iðnaðarins"]},
+    {"key": "SFS",  "label": "SFS", "group": "atvinnurekendur", "patterns": ["samtök fyrirtækja í sjávarútvegi", "sfs"]},
+    {"key": "SAF",  "label": "SAF", "group": "atvinnurekendur", "patterns": ["samtök ferðaþjónustunnar", "saf"]},
+    {"key": "SVTH", "label": "SVÞ", "group": "atvinnurekendur", "patterns": ["samtök verslunar og þjónustu", "svþ"]},
+    {"key": "SFF",  "label": "SFF", "group": "atvinnurekendur", "patterns": ["samtök fjármálafyrirtækja", "sff"]},
+    {"key": "FA",   "label": "Félag atvinnurekenda", "group": "atvinnurekendur", "patterns": ["félag atvinnurekenda"]},
+    {"key": "SSF",  "label": "Samorka", "group": "atvinnurekendur", "patterns": ["samorka"]},
+
+    {"key": "BSRB", "label": "BSRB", "group": "launafolk", "patterns": ["bsrb"]},
+    {"key": "BHM",  "label": "BHM",  "group": "launafolk", "patterns": ["bhm", "bandalag háskólamanna"]},
+    {"key": "KI",   "label": "KÍ",   "group": "launafolk", "patterns": ["kennarasamband íslands"]}
+  ]
+}

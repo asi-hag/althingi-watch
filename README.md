@@ -7,6 +7,9 @@ Sjálfvirk vöktun á þingskjölum, umsagnarbeiðnum og nefndarfundum á Alþin
 ```
 scripts/fetch.py          # Sækir gögn úr RSS og HTML
 scripts/requirements.txt  # Python dependencies
+scripts/umsagnir.py       # Umsagnarbeiðnir: viðtakendur (ASÍ, SA, VÍ o.fl.) og innsend erindi
+scripts/umsagnir_config.json  # Samtök sem fylgst er með
+site/umsagnir.html        # Yfirlit umsagnarbeiðna
 site/index.html           # Vefviðmót með síum og töflu
 site/data/                # JSON gögn (sjálfvirkt uppfærð)
 .github/workflows/        # GitHub Actions – keyrir daglega

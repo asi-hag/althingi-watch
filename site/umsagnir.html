@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="is">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Umsagnarbeiðnir – Alþingi vöktun</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 24px; color:#1b1b1b; }
+    header { display:flex; gap:12px; align-items: baseline; flex-wrap: wrap; }
+    .meta { color:#555; font-size: 0.9rem; }
+    .row { display:flex; gap:12px; flex-wrap:wrap; margin: 16px 0; align-items:center; }
+    input, select { padding: 8px 10px; font-size: 1rem; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 9px 10px; border-bottom: 1px solid #e5e5e5; vertical-align: top; }
+    th { text-align: left; font-size: .9rem; color:#444; white-space:nowrap; }
+    a { text-decoration: none; color:#0b57d0; }
+    a:hover { text-decoration: underline; }
+    .tag { display:inline-block; padding:1px 7px; border-radius: 10px; font-size:.8rem; margin:1px 2px 1px 0; background:#eef1f5; }
+    .tag.yes { background:#d8f0dd; color:#14532d; }
+    .tag.no  { background:#f3f3f3; color:#888; }
+    .tag.sent { background:#cfe3ff; color:#0b3d91; }
+    .tag.emp { background:#fde7c8; color:#7a3e00; }
+    tr.gap td { background:#fff6e0; }
+    .open { color:#14532d; font-weight:600; }
+    .past { color:#888; }
+    .stats { display:flex; gap:18px; flex-wrap:wrap; margin:8px 0 0; }
+    .stat b { font-size:1.3rem; display:block; }
+    details { margin-top:24px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="margin:0;">Umsagnarbeiðnir</h1>
+    <a href="index.html">← Alþingi vöktun</a>
+    <div class="meta" id="generated"></div>
+  </header>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="row">
+    <select id="view">
+      <option value="all">Allar umsagnarbeiðnir</option>
+      <option value="asi">ASÍ fékk beiðni</option>
+      <option value="gap" selected>Atvinnurekendur fengu beiðni en ekki ASÍ</option>
+      <option value="noasi">ASÍ fékk ekki beiðni</option>
+      <option value="unknown">Viðtakendur óþekktir</option>
+    </select>
+    <label><input type="checkbox" id="openOnly" /> Bara opnar (frestur ekki liðinn)</label>
+    <input id="q" placeholder="Leit: mál, nefnd, samtök…" size="30" />
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Frestur</th>
+        <th>Mál</th>
+        <th>Nefnd</th>
+        <th>ASÍ</th>
+        <th>Atvinnurekendur beðnir</th>
+        <th>Önnur samtök launafólks</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+  <details>
+    <summary class="meta">Skýringar</summary>
+    <p class="meta">
+      <span class="tag yes">beðin</span> samtökin eru á lista yfir viðtakendur umsagnarbeiðni.
+      <span class="tag sent">skilaði</span> erindi frá samtökunum er skráð í málinu.
+      Gul lína: a.m.k. ein samtök atvinnurekenda fengu beiðni en ASÍ ekki.
+      Samtökum sem fylgst er með er stýrt í <code>scripts/umsagnir_config.json</code>.
+    </p>
+  </details>
+
+<script>
+let DATA = null;
+const today = new Date().toISOString().slice(0,10);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const norm = s => (s||"").toLowerCase();
+
+function enrich(r){
+  const m = DATA.mal[r.mal] || {};
+  const orgs = DATA.orgs;
+  const beidni = new Set(m.beidni_til || []);
+  const skiladi = new Set(m.skiladi || []);
+  const known = m.vidtakendur !== null && m.vidtakendur !== undefined;
+  const inGroup = g => orgs.filter(o => o.group === g);
+  const asiAsked = beidni.has("ASI");
+  const empAsked = inGroup("atvinnurekendur").filter(o => beidni.has(o.key));
+  const labAsked = inGroup("launafolk").filter(o => beidni.has(o.key));
+  return { ...r, m, beidni, skiladi, known, asiAsked, empAsked, labAsked,
+           gap: known && !asiAsked && empAsked.length > 0,
+           open: r.frestur && r.frestur >= today };
+}
+
+function passes(x, view){
+  switch(view){
+    case "asi": return x.asiAsked;
+    case "gap": return x.gap;
+    case "noasi": return x.known && !x.asiAsked;
+    case "unknown": return !x.known;
+    default: return true;
+  }
+}
+
+function orgTags(list, skiladi, cls){
+  if (!list.length) return '<span class="meta">–</span>';
+  return list.map(o => `<span class="tag ${cls}" title="${esc(o.label)}">${esc(o.label)}${skiladi.has(o.key) ? " ✓" : ""}</span>`).join("");
+}
+
+function render(){
+  const view = document.getElementById("view").value;
+  const openOnly = document.getElementById("openOnly").checked;
+  const q = norm(document.getElementById("q").value);
+  const all = DATA.requests.map(enrich);
+
+  const st = document.getElementById("stats");
+  const openAll = all.filter(x => x.open);
+  st.innerHTML = [
+    ["Opnar beiðnir", openAll.length],
+    ["… þar af ASÍ beðin", openAll.filter(x => x.asiAsked).length],
+    ["… atvinnurekendur en ekki ASÍ", openAll.filter(x => x.gap).length],
+    ["Allar skráðar beiðnir", all.length],
+  ].map(([l,v]) => `<div class="stat"><b>${v}</b><span class="meta">${l}</span></div>`).join("");
+
+  const rows = all
+    .filter(x => passes(x, view))
+    .filter(x => !openOnly || x.open)
+    .filter(x => !q || norm([x.heiti, x.nefnd, x.mnr, ...(x.m.vidtakendur||[])].join(" ")).includes(q))
+    .sort((a,b) => (b.frestur||"").localeCompare(a.frestur||""));
+
+  document.getElementById("rows").innerHTML = rows.map(x => {
+    const asi = !x.known ? '<span class="tag no">óþekkt</span>'
+      : (x.asiAsked ? '<span class="tag yes">beðin</span>' : '<span class="tag no">ekki beðin</span>')
+        + (x.skiladi.has("ASI") ? ' <span class="tag sent">skilaði</span>' : "");
+    const nv = x.known ? `${x.m.vidtakendur.length} viðtakendur` : "";
+    return `<tr class="${x.gap ? "gap" : ""}">
+      <td style="white-space:nowrap" class="${x.open ? "open" : "past"}">${esc(x.frestur || "?")}</td>
+      <td><a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.mnr)}. ${esc(x.heiti)}</a>
+          <div class="meta">${esc(x.ltg)}. þing · beiðni ${esc(x.beidni_dags)}${nv ? " · " + nv : ""}</div></td>
+      <td class="meta">${esc(x.nefnd)}</td>
+      <td>${asi}</td>
+      <td>${x.known ? orgTags(x.empAsked, x.skiladi, "emp") : '<span class="meta">?</span>'}</td>
+      <td>${x.known ? orgTags(x.labAsked, x.skiladi, "") : '<span class="meta">?</span>'}</td>
+    </tr>`;
+  }).join("") || '<tr><td colspan="6" class="meta">Engar beiðnir passa við síuna.</td></tr>';
+}
+
+fetch("data/umsagnir.json", {cache:"no-store"})
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    document.getElementById("generated").textContent = `Síðast uppfært: ${d.generated_at}`;
+    ["view","openOnly","q"].forEach(id => document.getElementById(id).addEventListener("input", render));
+    render();
+  });
+</script>
+</body>
+</html>
