@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:19:52+00:00",
+  "generated_at": "2026-11-12T15:10:59+00:00",
   "lthing": 158,
   "items": [
     {
@@ -746,7 +746,7 @@
     },
     {
       "kind": "nefndarfundur",
-      "title": "atvinnuveganefnd — 2026-11-12 kl. 09:00 (Hellisheiðarvirkjun)",
+      "title": "atvinnuveganefnd — 2026-11-12 kl. 09:00 (í Hellisheiðarvirkjun)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28956",
       "published": "2026-11-12",
       "nefnd": "atvinnuveganefnd"
@@ -788,6 +788,13 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-11-13 kl. 13:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28963",
+      "published": "2026-11-13",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "umhverfis- og samgöngunefnd — 2026-11-13 kl. 13:30 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28954",
       "published": "2026-11-13",
@@ -806,6 +813,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28958",
       "published": "2026-11-17",
       "nefnd": "Íslandsdeild Vestnorræna ráðsins"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "umhverfis- og samgöngunefnd — 2026-11-19 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28960",
+      "published": "2026-11-19",
+      "nefnd": "umhverfis- og samgöngunefnd"
     }
   ]
 }
