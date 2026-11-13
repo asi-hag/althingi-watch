@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:10:59+00:00",
+  "generated_at": "2026-11-13T14:31:54+00:00",
   "lthing": 158,
   "items": [
     {
@@ -788,6 +788,13 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-11-13 kl. 09:15 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28884",
+      "published": "2026-11-13",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "efnahags- og viðskiptanefnd — 2026-11-13 kl. 13:30 (í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28963",
       "published": "2026-11-13",
@@ -802,10 +809,24 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "Íslandsdeild NATO-þingsins — 2026-11-16 kl. 08:30 (Utanríkisráðuneytið)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28975",
+      "published": "2026-11-16",
+      "nefnd": "Íslandsdeild NATO-þingsins"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "umhverfis- og samgöngunefnd — 2026-11-17 kl. 09:15 (ISNIC - Internet á Íslandi)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28957",
       "published": "2026-11-17",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu — 2026-11-17 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28968",
+      "published": "2026-11-17",
+      "nefnd": "sérnefnd til að íhuga viðbrögð Alþingis við dómi Mannréttindadómstóls Evrópu"
     },
     {
       "kind": "nefndarfundur",
