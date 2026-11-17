@@ -1,7 +1,112 @@
 {
-  "generated_at": "2026-11-16T15:41:56+00:00",
+  "generated_at": "2026-11-17T15:57:41+00:00",
   "lthing": 158,
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 428 - mál 337: biðlistar barna eftir þjónustu",
+      "link": "https://www.althingi.is/altext/158/s/428.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: JGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 427 - mál 336: skipan í stjórnir, nefndir, ráð, vinnu- og starfshópa",
+      "link": "https://www.althingi.is/altext/158/s/427.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NMG"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 426 - mál 335: skipan í stjórnir, nefndir, ráð, vinnu- og starfshópa",
+      "link": "https://www.althingi.is/altext/158/s/426.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NMG"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 425 - mál 334: stuðningsúrræði Menntasjóðs námsmanna",
+      "link": "https://www.althingi.is/altext/158/s/425.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: KGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 424 - mál 333: meðlagsgreiðslur",
+      "link": "https://www.althingi.is/altext/158/s/424.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: KGH"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 423 - mál 332: staðfesting ákvarðana sameiginlegu EES-nefndarinnar um breytingu á XXII. og IX. viðauka og um breytingu á bókun 26 um valdsvið o.fl. (félagaréttur, fjármálaþjónusta o.fl.)",
+      "link": "https://www.althingi.is/altext/158/s/423.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Stjórnartillaga. Flutningsmaður: utanrrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 422 - mál 77: ársreikningar (stærðarhlutföll, endurskoðunarmörk, skilafrestur o.fl.)",
+      "link": "https://www.althingi.is/altext/158/s/422.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: ev"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 421 - mál 331: vegabréf (útgáfa persónuskilríkja)",
+      "link": "https://www.althingi.is/altext/158/s/421.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: dómsmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 417 - mál 101: Gæða- og eftirlitsstofnun velferðarmála (rannsókn alvarlegra óvæntra atvika)",
+      "link": "https://www.althingi.is/altext/158/s/417.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: vf"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 416 - mál 179: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/416.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Svar. Flutningsmaður: mennrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 415 - mál 162: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/415.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Svar. Flutningsmaður: mennta- og barnamrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 414 - mál 327: skaðabótalög (gjafsókn)",
+      "link": "https://www.althingi.is/altext/158/s/414.html?utm_medium=rss",
+      "published": "2026-11-17",
+      "summary": "Frumvarp. Flutningsmaður: GIK"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 420 - mál 330: þjónusta við fatlað fólk með langvarandi stuðningsþarfir og samningur Sameinuðu þjóðanna um réttindi fatlaðs fólks",
+      "link": "https://www.althingi.is/altext/158/s/420.html?utm_medium=rss",
+      "published": "2026-11-16",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: fél.- og húsnrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 419 - mál 329: skattar og gjöld (tekjuskattur, tollar o.fl.)",
+      "link": "https://www.althingi.is/altext/158/s/419.html?utm_medium=rss",
+      "published": "2026-11-16",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: fjmrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 418 - mál 328: náttúru- og innviðagjald",
+      "link": "https://www.althingi.is/altext/158/s/418.html?utm_medium=rss",
+      "published": "2026-11-16",
+      "summary": "Stjórnarfrumvarp. Flutningsmaður: atvvrh."
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 413 - mál 79: hlutafélög og einkahlutafélög (EES-innleiðing)",
@@ -596,111 +701,6 @@
       "link": "https://www.althingi.is/altext/158/s/326.html?utm_medium=rss",
       "published": "2026-11-03",
       "summary": "Svar. Flutningsmaður: dómsmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 329 - mál 291: einstaklingssniðin heilbrigðisþjónusta",
-      "link": "https://www.althingi.is/altext/158/s/329.html?utm_medium=rss",
-      "published": "2026-11-03",
-      "summary": "Stjórnartillaga. Flutningsmaður: heilbrrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 328 - mál 290: Stafræn heilsa",
-      "link": "https://www.althingi.is/altext/158/s/328.html?utm_medium=rss",
-      "published": "2026-11-03",
-      "summary": "Stjórnarfrumvarp. Flutningsmaður: heilbrrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 327 - mál 123: áhrif lokunar fangelsis á Akureyri",
-      "link": "https://www.althingi.is/altext/158/s/327.html?utm_medium=rss",
-      "published": "2026-11-03",
-      "summary": "Svar. Flutningsmaður: dómsmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 325 - mál 196: farnetsþjónusta eftir útfösun 2G- og 3G-netkerfa",
-      "link": "https://www.althingi.is/altext/158/s/325.html?utm_medium=rss",
-      "published": "2026-11-03",
-      "summary": "Svar. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 320 - mál 103: örorku- og endurhæfingarlífeyrisþegar og sjúkra- og endurhæfingargreiðslur",
-      "link": "https://www.althingi.is/altext/158/s/320.html?utm_medium=rss",
-      "published": "2026-11-03",
-      "summary": "Svar. Flutningsmaður: fél.- og húsnrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 324 - mál 289: aldur lögreglumanna, starfsaldur, brotthvarf úr starfi og nýliðun",
-      "link": "https://www.althingi.is/altext/158/s/324.html?utm_medium=rss",
-      "published": "2026-11-02",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: SÖH"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 323 - mál 288: sýning í Náttúruhúsi í Nesi og framtíðarskipan Náttúruminjasafns Íslands",
-      "link": "https://www.althingi.is/altext/158/s/323.html?utm_medium=rss",
-      "published": "2026-11-02",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: IIsak"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 322 - mál 191: endurmat á fjárhagslegum áhrifum ríkisaðgerða á sveitarfélög",
-      "link": "https://www.althingi.is/altext/158/s/322.html?utm_medium=rss",
-      "published": "2026-11-02",
-      "summary": "Svar. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 321 - mál 287: varanleg búseta í færanlegum búsetueiningum",
-      "link": "https://www.althingi.is/altext/158/s/321.html?utm_medium=rss",
-      "published": "2026-11-02",
-      "summary": "Þáltill.. Flutningsmaður: KÁB"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 318 - mál 285: aðgangur barna að samfélagsmiðlum",
-      "link": "https://www.althingi.is/altext/158/s/318.html?utm_medium=rss",
-      "published": "2026-10-29",
-      "summary": "Stjórnarfrumvarp. Flutningsmaður: mennta- og barnamrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 317 - mál 284: neytendasamningar (nútímavæðing)",
-      "link": "https://www.althingi.is/altext/158/s/317.html?utm_medium=rss",
-      "published": "2026-10-29",
-      "summary": "Stjórnarfrumvarp. Flutningsmaður: atvvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 316 - mál 283: breyting á ýmsum lögum á sviði orkumála (EES-reglur)",
-      "link": "https://www.althingi.is/altext/158/s/316.html?utm_medium=rss",
-      "published": "2026-10-29",
-      "summary": "Stjórnarfrumvarp. Flutningsmaður: umhv.- og loftslrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 315 - mál 282: almenn hegningarlög (vændiskaup)",
-      "link": "https://www.althingi.is/altext/158/s/315.html?utm_medium=rss",
-      "published": "2026-10-29",
-      "summary": "Stjórnarfrumvarp. Flutningsmaður: dómsmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 314 - mál 281: fjarskipti o.fl. (aðgerðir gegn svikastarfsemi, EES-reglur o.fl.)",
-      "link": "https://www.althingi.is/altext/158/s/314.html?utm_medium=rss",
-      "published": "2026-10-29",
-      "summary": "Stjórnarfrumvarp. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 313 - mál 158: ákvarðanir nr. 283/2026 um breytingu á XX. viðauka við EES-samninginn o.fl. (Umhverfismál)",
-      "link": "https://www.althingi.is/altext/158/s/313.html?utm_medium=rss",
-      "published": "2026-10-29",
-      "summary": "Nefndarálit. Flutningsmaður: ut"
     }
   ]
 }
