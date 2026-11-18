@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T15:58:31+00:00",
+ "generated_at": "2026-11-18T15:37:57+00:00",
  "orgs": [
   {
    "key": "ASI",
@@ -703,6 +703,17 @@
    "link": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=3"
   },
   {
+   "id": "158-285-velferðarnefnd-2026-11-18",
+   "mal": "158-285",
+   "ltg": 158,
+   "mnr": 285,
+   "nefnd": "Velferðarnefnd",
+   "heiti": "aðgangur barna að samfélagsmiðlum",
+   "beidni_dags": "2026-11-18",
+   "frestur": "",
+   "link": "https://www.althingi.is/thingstorf/thingmalalistar-eftir-thingum/ferill/?ltg=158&mnr=285"
+  },
+  {
    "id": "158-233-umhverfis- og samgöngunefnd-2026-10-22",
    "mal": "158-233",
    "ltg": 158,
@@ -1080,7 +1091,7 @@
    ]
   },
   "158-92": {
-   "fetched_at": "2026-11-17T15:57:41+00:00",
+   "fetched_at": "2026-11-18T15:37:16+00:00",
    "vidtakendur": [
     "Alþýðusamband Íslands (ASÍ)",
     "Efla hf., verkfræðistofa",
@@ -1125,6 +1136,12 @@
      "tegund": "umsögn",
      "dags": "2026-11-13",
      "link": "http://www.althingi.is/altext/erindi/158/158-795.pdf"
+    },
+    {
+     "sendandi": "ÖBÍ réttindasamtök",
+     "tegund": "umsögn",
+     "dags": "2026-11-18",
+     "link": "http://www.althingi.is/altext/erindi/158/158-833.pdf"
     }
    ],
    "heimild": "xml",
@@ -1139,7 +1156,7 @@
    ]
   },
   "158-9": {
-   "fetched_at": "2026-11-17T15:57:43+00:00",
+   "fetched_at": "2026-11-18T15:37:17+00:00",
    "vidtakendur": [
     "BHM",
     "BSRB",
@@ -1183,7 +1200,7 @@
    "skiladi": []
   },
   "158-89": {
-   "fetched_at": "2026-11-17T15:57:44+00:00",
+   "fetched_at": "2026-11-18T15:37:18+00:00",
    "vidtakendur": [
     "Isavia ohf.",
     "Íslensk málnefnd",
@@ -1227,7 +1244,7 @@
    "skiladi": []
   },
   "158-88": {
-   "fetched_at": "2026-11-17T15:57:45+00:00",
+   "fetched_at": "2026-11-18T15:37:19+00:00",
    "vidtakendur": [
     "Akureyrarbær",
     "Almannavarnadeild ríkislögreglustjóra",
@@ -1403,7 +1420,7 @@
    "skiladi": []
   },
   "158-84": {
-   "fetched_at": "2026-11-17T15:57:46+00:00",
+   "fetched_at": "2026-11-18T15:37:20+00:00",
    "vidtakendur": [
     "Áfrýjunarnefnd neytendamála",
     "Félag atvinnurekenda",
@@ -1508,7 +1525,7 @@
    "skiladi": []
   },
   "158-81": {
-   "fetched_at": "2026-11-17T15:57:47+00:00",
+   "fetched_at": "2026-11-18T15:37:21+00:00",
    "vidtakendur": [
     "Háskóli Íslands",
     "Íslensk málnefnd",
@@ -2178,7 +2195,7 @@
    "skiladi": []
   },
   "158-73": {
-   "fetched_at": "2026-11-17T15:57:48+00:00",
+   "fetched_at": "2026-11-18T15:37:22+00:00",
    "vidtakendur": [
     "BHM",
     "BSRB",
@@ -2297,7 +2314,7 @@
    ]
   },
   "158-59": {
-   "fetched_at": "2026-11-17T15:57:50+00:00",
+   "fetched_at": "2026-11-18T15:37:23+00:00",
    "vidtakendur": [
     "Akureyrarbær",
     "Árneshreppur",
@@ -2964,7 +2981,7 @@
    "skiladi": []
   },
   "158-36": {
-   "fetched_at": "2026-11-17T15:57:51+00:00",
+   "fetched_at": "2026-11-18T15:37:24+00:00",
    "vidtakendur": [
     "Jafnréttisstofa",
     "Lögmannafélag Íslands",
@@ -3047,7 +3064,7 @@
    "skiladi": []
   },
   "158-295": {
-   "fetched_at": "2026-11-17T15:57:53+00:00",
+   "fetched_at": "2026-11-18T15:37:26+00:00",
    "vidtakendur": [
     "AMSIS",
     "Barnaheill",
@@ -3143,6 +3160,12 @@
      "tegund": "umsögn",
      "dags": "2026-11-17",
      "link": "http://www.althingi.is/altext/erindi/158/158-828.pdf"
+    },
+    {
+     "sendandi": "Vladyslav Maliuta",
+     "tegund": "umsögn",
+     "dags": "2026-11-17",
+     "link": "http://www.althingi.is/altext/erindi/158/158-841.pdf"
     }
    ],
    "heimild": "xml",
@@ -3157,7 +3180,7 @@
    "skiladi": []
   },
   "158-294": {
-   "fetched_at": "2026-11-17T15:57:54+00:00",
+   "fetched_at": "2026-11-18T15:37:27+00:00",
    "vidtakendur": [
     "Almannavarnanefnd höfuðborgarsvæðisins",
     "Barnaheill",
@@ -3244,7 +3267,7 @@
    "skiladi": []
   },
   "158-293": {
-   "fetched_at": "2026-11-17T15:57:56+00:00",
+   "fetched_at": "2026-11-18T15:37:28+00:00",
    "vidtakendur": [
     "Byggðastofnun",
     "Kauphöll Íslands hf.",
@@ -3269,7 +3292,7 @@
    "skiladi": []
   },
   "158-292": {
-   "fetched_at": "2026-11-17T15:57:57+00:00",
+   "fetched_at": "2026-11-18T15:37:29+00:00",
    "vidtakendur": [
     "Alþýðusamband Íslands (ASÍ)",
     "BMH ehf.",
@@ -3306,7 +3329,7 @@
    ]
   },
   "158-291": {
-   "fetched_at": "2026-11-17T15:57:58+00:00",
+   "fetched_at": "2026-11-18T15:37:30+00:00",
    "vidtakendur": [
     "Diabetes Íslands",
     "Einstök börn, foreldrafélag",
@@ -3342,7 +3365,7 @@
    "skiladi": []
   },
   "158-290": {
-   "fetched_at": "2026-11-17T15:57:59+00:00",
+   "fetched_at": "2026-11-18T15:37:31+00:00",
    "vidtakendur": [
     "Embætti landlæknis",
     "Félag heyrnarlausra",
@@ -3380,7 +3403,7 @@
    "skiladi": []
   },
   "158-284": {
-   "fetched_at": "2026-11-17T15:58:01+00:00",
+   "fetched_at": "2026-11-18T15:37:34+00:00",
    "vidtakendur": [
     "Félag atvinnurekenda",
     "Félag íslenskra bifreiðaeigenda",
@@ -3429,6 +3452,24 @@
      "tegund": "umsögn",
      "dags": "2026-11-17",
      "link": "http://www.althingi.is/altext/erindi/158/158-829.pdf"
+    },
+    {
+     "sendandi": "Alþýðusamband Íslands (ASÍ)",
+     "tegund": "umsögn",
+     "dags": "2026-11-18",
+     "link": "http://www.althingi.is/altext/erindi/158/158-834.pdf"
+    },
+    {
+     "sendandi": "Samtök atvinnulífsins",
+     "tegund": "umsögn",
+     "dags": "2026-11-17",
+     "link": "http://www.althingi.is/altext/erindi/158/158-836.pdf"
+    },
+    {
+     "sendandi": "Samtök iðnaðarins",
+     "tegund": "umsögn",
+     "dags": "2026-11-17",
+     "link": "http://www.althingi.is/altext/erindi/158/158-837.pdf"
     }
    ],
    "heimild": "xml",
@@ -3443,12 +3484,15 @@
     "VI"
    ],
    "skiladi": [
+    "ASI",
+    "SA",
+    "SI",
     "SVTH",
     "VI"
    ]
   },
   "158-283": {
-   "fetched_at": "2026-11-17T15:58:03+00:00",
+   "fetched_at": "2026-11-18T15:37:35+00:00",
    "vidtakendur": [
     "HS Orka hf.",
     "HS Veitur hf.",
@@ -3469,7 +3513,7 @@
    "skiladi": []
   },
   "158-282": {
-   "fetched_at": "2026-11-17T15:58:04+00:00",
+   "fetched_at": "2026-11-18T15:37:36+00:00",
    "vidtakendur": [
     "Héraðssaksóknari",
     "Kvenréttindafélag Íslands",
@@ -3508,7 +3552,7 @@
    "skiladi": []
   },
   "158-281": {
-   "fetched_at": "2026-11-17T15:58:05+00:00",
+   "fetched_at": "2026-11-18T15:37:36+00:00",
    "vidtakendur": [
     "Fjarskiptastofa",
     "Fjölmiðlanefnd",
@@ -3577,6 +3621,18 @@
      "tegund": "umsögn",
      "dags": "2026-11-17",
      "link": "http://www.althingi.is/altext/erindi/158/158-826.pdf"
+    },
+    {
+     "sendandi": "Samtök iðnaðarins",
+     "tegund": "umsögn",
+     "dags": "2026-11-17",
+     "link": "http://www.althingi.is/altext/erindi/158/158-838.pdf"
+    },
+    {
+     "sendandi": "Internet á Íslandi hf - ISNIC",
+     "tegund": "umsögn",
+     "dags": "2026-11-17",
+     "link": "http://www.althingi.is/altext/erindi/158/158-839.pdf"
     }
    ],
    "heimild": "xml",
@@ -3586,10 +3642,12 @@
     "SI",
     "SVTH"
    ],
-   "skiladi": []
+   "skiladi": [
+    "SI"
+   ]
   },
   "158-258": {
-   "fetched_at": "2026-11-17T15:58:06+00:00",
+   "fetched_at": "2026-11-18T15:37:37+00:00",
    "vidtakendur": [
     "Dýraverndarsamband Íslands",
     "Fuglavernd",
@@ -3626,7 +3684,7 @@
    "skiladi": []
   },
   "158-235": {
-   "fetched_at": "2026-11-17T15:58:07+00:00",
+   "fetched_at": "2026-11-18T15:37:38+00:00",
    "vidtakendur": [
     "Félag íþrótta-, æskulýðs- og tómstundafulltrúa",
     "Félag náms- og starfsráðgjafa",
@@ -3737,7 +3795,7 @@
    "skiladi": []
   },
   "158-233": {
-   "fetched_at": "2026-11-17T15:58:08+00:00",
+   "fetched_at": "2026-11-18T15:37:40+00:00",
    "vidtakendur": [
     "Bændasamtök Íslands",
     "Elkem Ísland ehf.",
@@ -3845,7 +3903,7 @@
    ]
   },
   "158-232": {
-   "fetched_at": "2026-11-17T15:58:10+00:00",
+   "fetched_at": "2026-11-18T15:37:40+00:00",
    "vidtakendur": [
     "Dýraverndarsamband Íslands",
     "Embætti landlæknis",
@@ -4007,7 +4065,7 @@
    ]
   },
   "158-219": {
-   "fetched_at": "2026-11-17T15:58:11+00:00",
+   "fetched_at": "2026-11-18T15:37:41+00:00",
    "vidtakendur": [
     "Héraðssaksóknari",
     "Hörður Felix Harðarson",
@@ -4070,7 +4128,7 @@
    "skiladi": []
   },
   "158-205": {
-   "fetched_at": "2026-11-17T15:58:12+00:00",
+   "fetched_at": "2026-11-18T15:37:42+00:00",
    "vidtakendur": [
     "Félag eldri borgara í Reykjavík og nágrenni",
     "Félagsráðgjafafélag Íslands",
@@ -4161,7 +4219,7 @@
    ]
   },
   "158-204": {
-   "fetched_at": "2026-11-17T15:58:13+00:00",
+   "fetched_at": "2026-11-18T15:37:43+00:00",
    "vidtakendur": [
     "Dómstólasýslan",
     "Héraðssaksóknari",
@@ -4197,7 +4255,7 @@
    "skiladi": []
   },
   "158-203": {
-   "fetched_at": "2026-11-17T15:58:14+00:00",
+   "fetched_at": "2026-11-18T15:37:44+00:00",
    "vidtakendur": [
     "Hafrannsóknastofnun - rannsókna- og ráðgjafarstofnun hafs og vatna",
     "Landhelgisgæsla Íslands",
@@ -4236,7 +4294,7 @@
    "skiladi": []
   },
   "158-202": {
-   "fetched_at": "2026-11-17T15:58:15+00:00",
+   "fetched_at": "2026-11-18T15:37:45+00:00",
    "vidtakendur": [
     "Akureyrarbær",
     "Aldin - hreyfing eldra fólks gegn loftslagsvánni",
@@ -4974,7 +5032,7 @@
    ]
   },
   "158-198": {
-   "fetched_at": "2026-11-17T15:58:17+00:00",
+   "fetched_at": "2026-11-18T15:37:46+00:00",
    "vidtakendur": [
     "Árvakur hf",
     "Birtingur útgáfufélag ehf.",
@@ -5038,7 +5096,7 @@
    "skiladi": []
   },
   "158-190": {
-   "fetched_at": "2026-11-17T15:58:18+00:00",
+   "fetched_at": "2026-11-18T15:37:47+00:00",
    "vidtakendur": [
     "Dýralæknafélag Íslands",
     "Embætti landlæknis",
@@ -5148,7 +5206,7 @@
    ]
   },
   "158-186": {
-   "fetched_at": "2026-11-17T15:58:19+00:00",
+   "fetched_at": "2026-11-18T15:37:48+00:00",
    "vidtakendur": [
     "BSRB",
     "Byggðastofnun",
@@ -5194,7 +5252,7 @@
    "skiladi": []
   },
   "158-157": {
-   "fetched_at": "2026-11-17T15:58:20+00:00",
+   "fetched_at": "2026-11-18T15:37:49+00:00",
    "vidtakendur": [
     "BHM",
     "BSRB",
@@ -5383,7 +5441,7 @@
    ]
   },
   "158-156": {
-   "fetched_at": "2026-11-17T15:58:21+00:00",
+   "fetched_at": "2026-11-18T15:37:50+00:00",
    "vidtakendur": [
     "Akureyrarbær",
     "Árneshreppur",
@@ -5536,7 +5594,7 @@
    ]
   },
   "158-155": {
-   "fetched_at": "2026-11-17T15:58:23+00:00",
+   "fetched_at": "2026-11-18T15:37:51+00:00",
    "vidtakendur": [
     "ALM verðbréf",
     "Alþýðusamband Íslands (ASÍ)",
@@ -5622,7 +5680,7 @@
    "skiladi": []
   },
   "158-154": {
-   "fetched_at": "2026-11-17T15:58:24+00:00",
+   "fetched_at": "2026-11-18T15:37:51+00:00",
    "vidtakendur": [
     "BHM",
     "BSRB",
@@ -5765,7 +5823,7 @@
    "skiladi": []
   },
   "158-134": {
-   "fetched_at": "2026-11-17T15:58:25+00:00",
+   "fetched_at": "2026-11-18T15:37:52+00:00",
    "vidtakendur": [
     "Arnaldur Hjartarson",
     "Arnar Þór Jónsson",
@@ -6002,7 +6060,7 @@
    ]
   },
   "158-133": {
-   "fetched_at": "2026-11-17T15:58:26+00:00",
+   "fetched_at": "2026-11-18T15:37:53+00:00",
    "vidtakendur": [
     "Samtök atvinnulífsins",
     "Hagstofa Íslands",
@@ -6251,7 +6309,7 @@
    ]
   },
   "158-12": {
-   "fetched_at": "2026-11-17T15:58:27+00:00",
+   "fetched_at": "2026-11-18T15:37:54+00:00",
    "vidtakendur": [
     "Félag framhaldsskólakennara",
     "Fjölbrautaskóli Suðurlands",
@@ -6271,6 +6329,12 @@
      "tegund": "umsögn",
      "dags": "2026-11-12",
      "link": "http://www.althingi.is/altext/erindi/158/158-772.pdf"
+    },
+    {
+     "sendandi": "Körfuknattleiksfélag Selfoss",
+     "tegund": "umsögn",
+     "dags": "2026-11-18",
+     "link": "http://www.althingi.is/altext/erindi/158/158-840.pdf"
     }
    ],
    "heimild": "xml",
@@ -6385,7 +6449,7 @@
    ]
   },
   "158-107": {
-   "fetched_at": "2026-11-17T15:58:28+00:00",
+   "fetched_at": "2026-11-18T15:37:55+00:00",
    "vidtakendur": [
     "Arion banki hf.",
     "Dómarafélag Íslands",
@@ -6699,7 +6763,7 @@
    ]
   },
   "158-100": {
-   "fetched_at": "2026-11-17T15:58:30+00:00",
+   "fetched_at": "2026-11-18T15:37:56+00:00",
    "vidtakendur": [
     "Hagsmunasamtök heimilanna",
     "Landvernd",
@@ -7751,7 +7815,7 @@
    ]
   },
   "158-313": {
-   "fetched_at": "2026-11-17T15:57:52+00:00",
+   "fetched_at": "2026-11-18T15:37:25+00:00",
    "vidtakendur": [
     "Akureyrarbær",
     "Alþýðusamband Íslands (ASÍ)",
@@ -7905,7 +7969,7 @@
    "skiladi": []
   },
   "158-286": {
-   "fetched_at": "2026-11-17T15:58:00+00:00",
+   "fetched_at": "2026-11-18T15:37:32+00:00",
    "vidtakendur": [
     "Akureyrarbær",
     "Alþýðusamband Íslands (ASÍ)",
@@ -8018,6 +8082,102 @@
    "beidni_til": [
     "ASI",
     "BSRB",
+    "KI"
+   ],
+   "skiladi": []
+  },
+  "158-285": {
+   "fetched_at": "2026-11-18T15:37:33+00:00",
+   "vidtakendur": [
+    "Akureyrarbær",
+    "Árneshreppur",
+    "Ásahreppur",
+    "Barnaheill",
+    "Bláskógabyggð",
+    "Bolungarvíkurkaupstaður",
+    "Borgarbyggð",
+    "Dalabyggð",
+    "Dalvíkurbyggð",
+    "Einhverfusamtökin",
+    "Embætti landlæknis",
+    "Eyja- og Miklaholtshreppur",
+    "Eyjafjarðarsveit",
+    "Fjallabyggð",
+    "Fjarðabyggð",
+    "Fjölmiðlanefnd",
+    "Fljótsdalshreppur",
+    "Flóahreppur",
+    "Garðabær",
+    "Grindavíkurbær",
+    "Grímsnes- og Grafningshreppur",
+    "Grundarfjarðarbær",
+    "Grýtubakkahreppur",
+    "Hafnarfjarðarbær",
+    "Heimili og skóli",
+    "Hrunamannahreppur",
+    "Húnabyggð",
+    "Húnaþing vestra",
+    "Hvalfjarðarsveit",
+    "Hveragerðisbær",
+    "Hörgársveit",
+    "Ísafjarðarbær",
+    "Kaldrananeshreppur",
+    "Kennarasamband Íslands",
+    "Kjósarhreppur",
+    "Kópavogsbær",
+    "Landssamtökin Þroskahjálp",
+    "Langanesbyggð",
+    "Menntavísindastofnun",
+    "Miðstöð menntunar og skólaþjónustu",
+    "Akranesbær",
+    "Mosfellsbær",
+    "ÖBÍ réttindasamtök",
+    "Múlaþing",
+    "Mýrdalshreppur",
+    "Netvís-Netöryggismiðstöð Íslands",
+    "Norðurþing",
+    "Persónuvernd",
+    "Rangárþing eystra",
+    "Rangárþing ytra",
+    "Reykhólahreppur",
+    "Reykjanesbær",
+    "Reykjavíkurborg",
+    "Samband íslenskra sveitarfélaga",
+    "SAMFÉS, samtök félagsmiðstöðva",
+    "Samtökin '78",
+    "Seltjarnarnesbær",
+    "Skaftárhreppur",
+    "Skagabyggð",
+    "Skeiða- og Gnúpverjahreppur",
+    "Skorradalshreppur",
+    "Snæfellsbær",
+    "Stafræn velferð ehf.",
+    "Strandabyggð",
+    "Suðurnesjabær",
+    "Súðavíkurhreppur",
+    "Svalbarðsstrandarhreppur",
+    "Sveitarfélagið Árborg",
+    "Sveitarfélagið Hornafjörður",
+    "Sveitarfélagið Skagafjörður",
+    "Sveitarfélagið Skagaströnd",
+    "Sveitarfélagið Stykkishólmur",
+    "Sveitarfélagið Vogar",
+    "Sveitarfélagið Ölfus",
+    "Tjörneshreppur",
+    "Umboðsmaður barna",
+    "Ungheill",
+    "Ungmennaráð UNICEF",
+    "UNICEF á Íslandi",
+    "Vestmannaeyjabær",
+    "Vesturbyggð",
+    "Vopnafjarðarhreppur",
+    "Þingeyjarsveit",
+    "velferðarnefnd"
+   ],
+   "erindi": [],
+   "heimild": "xml",
+   "villa": "",
+   "beidni_til": [
     "KI"
    ],
    "skiladi": []

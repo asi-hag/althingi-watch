@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:57:41+00:00",
+  "generated_at": "2026-11-18T15:37:16+00:00",
   "lthing": 158,
   "items": [
     {
@@ -890,6 +890,27 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28960",
       "published": "2026-11-19",
       "nefnd": "umhverfis- og samgöngunefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "fjárlaganefnd — 2026-11-19 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28990",
+      "published": "2026-11-19",
+      "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-11-19 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28989",
+      "published": "2026-11-19",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-11-19 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28977",
+      "published": "2026-11-19",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
     }
   ]
 }
