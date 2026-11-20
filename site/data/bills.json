@@ -1,7 +1,98 @@
 {
-  "generated_at": "2026-11-19T15:42:21+00:00",
+  "generated_at": "2026-11-20T15:24:46+00:00",
   "lthing": 158,
   "items": [
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 440 - mál 223: þjónusta og viðhald malarvega í Norðausturkjördæmi",
+      "link": "https://www.althingi.is/altext/158/s/440.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Svar. Flutningsmaður: innvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 444 - mál 178: fjarskiptakerfi",
+      "link": "https://www.althingi.is/altext/158/s/444.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Svar. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 443 - mál 139: endurskoðun áhættumats erfðablöndunar",
+      "link": "https://www.althingi.is/altext/158/s/443.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Svar. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 445 - mál 163: meðferð viðtalsbeiðna",
+      "link": "https://www.althingi.is/altext/158/s/445.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Svar. Flutningsmaður: atvvrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 447 - mál 78: barnavernd",
+      "link": "https://www.althingi.is/altext/158/s/447.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: vf"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 448 - mál 347: brottfararstöð (frestun gildistöku)",
+      "link": "https://www.althingi.is/altext/158/s/448.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Frumvarp nefndar. Flutningsmaður: am"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 449 - mál 329: skattar og gjöld (tekjuskattur, tollar o.fl.)",
+      "link": "https://www.althingi.is/altext/158/s/449.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Breytingartillaga. Flutningsmaður: BHar"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 442 - mál 346: eftirfylgniskýrsla Ríkisendurskoðunar um Samkeppniseftirlitið",
+      "link": "https://www.althingi.is/altext/158/s/442.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Álit. Flutningsmaður: se"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 437 - mál 288: sýning í Náttúruhúsi í Nesi og framtíðarskipan Náttúruminjasafns Íslands",
+      "link": "https://www.althingi.is/altext/158/s/437.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Svar. Flutningsmaður: mennrh."
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 441 - mál 322: almennar íbúðir (stofnframlög)",
+      "link": "https://www.althingi.is/altext/158/s/441.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Nefndarálit. Flutningsmaður: vf"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 439 - mál 345: persónuvernd í nettengdum ökutækjum",
+      "link": "https://www.althingi.is/altext/158/s/439.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: ÞorgS"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 438 - mál 344: fæðingar á Íslandi",
+      "link": "https://www.althingi.is/altext/158/s/438.html?utm_medium=rss",
+      "published": "2026-11-20",
+      "summary": "Fsp. til skrifl. svars. Flutningsmaður: NMG"
+    },
+    {
+      "kind": "skjol",
+      "title": "Skjal nr. 436 - mál 329: skattar og gjöld (tekjuskattur, tollar o.fl.)",
+      "link": "https://www.althingi.is/altext/158/s/436.html?utm_medium=rss",
+      "published": "2026-11-19",
+      "summary": "Breytingartillaga. Flutningsmaður: GHaf"
+    },
     {
       "kind": "skjol",
       "title": "Skjal nr. 435 - mál 343: eftirfylgniskýrsla Ríkisendurskoðunar um Sinfóníuhljómsveit Íslands",
@@ -610,97 +701,6 @@
       "link": "https://www.althingi.is/altext/158/s/346.html?utm_medium=rss",
       "published": "2026-11-05",
       "summary": "Svar. Flutningsmaður: dómsmrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 342 - mál 98: netöryggisvottun á sviði upplýsinga- og fjarskiptatækni.",
-      "link": "https://www.althingi.is/altext/158/s/342.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: us"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 344 - mál 158: ákvarðanir nr. 283/2026 um breytingu á XX. viðauka við EES-samninginn o.fl. (Umhverfismál)",
-      "link": "https://www.althingi.is/altext/158/s/344.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Þál. í heild. Flutningsmaður: utanrrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 349 - mál 75: stefna og framkvæmdaáætlun um samþættingu þjónustu í þágu farsældar barna til ársins 2030",
-      "link": "https://www.althingi.is/altext/158/s/349.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Nefndarálit með breytingatillögu. Flutningsmaður: vf"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 343 - mál 224: uppbygging hjúkrunarrýma í Suðurkjördæmi",
-      "link": "https://www.althingi.is/altext/158/s/343.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Svar. Flutningsmaður: mennta- og barnamrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 347 - mál 302: afplánun fangelsisrefsinga erlendis",
-      "link": "https://www.althingi.is/altext/158/s/347.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: SÖH"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 348 - mál 303: eignarhald og nýting landbúnaðarlands",
-      "link": "https://www.althingi.is/altext/158/s/348.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: DBE"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 345 - mál 301: ívilnanir vegna skorts á menntuðu starfsfólki á landsbyggðinni",
-      "link": "https://www.althingi.is/altext/158/s/345.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Fsp. til skrifl. svars. Flutningsmaður: IAS"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 341 - mál 115: auglýsingar",
-      "link": "https://www.althingi.is/altext/158/s/341.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Svar. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 340 - mál 166: meðferð viðtalsbeiðna",
-      "link": "https://www.althingi.is/altext/158/s/340.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Svar. Flutningsmaður: innvrh."
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 339 - mál 300: niðurgreiðsla á flugferðum barna og ungmenna vegna landsliðsverkefna",
-      "link": "https://www.althingi.is/altext/158/s/339.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Þáltill.. Flutningsmaður: ÞorgS"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 338 - mál 299: smíði eða kaup á aukaferju til siglinga milli Vestmannaeyja og lands",
-      "link": "https://www.althingi.is/altext/158/s/338.html?utm_medium=rss",
-      "published": "2026-11-04",
-      "summary": "Þáltill.. Flutningsmaður: KGH"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 335 - mál 296: þróun útgjalda ríkis og sveitarfélaga vegna bóta, framfærslu- og húsnæðisstuðnings 2010--2025",
-      "link": "https://www.althingi.is/altext/158/s/335.html?utm_medium=rss",
-      "published": "2026-11-03",
-      "summary": "Beiðni um skýrslu. Flutningsmaður: NMG"
-    },
-    {
-      "kind": "skjol",
-      "title": "Skjal nr. 337 - mál 298: svæðisborgin Akureyri",
-      "link": "https://www.althingi.is/altext/158/s/337.html?utm_medium=rss",
-      "published": "2026-11-03",
-      "summary": "Fsp. til munnl. svars. Flutningsmaður: IngÞ"
     }
   ]
 }
