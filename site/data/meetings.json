@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:40:39+00:00",
+  "generated_at": "2026-11-25T17:11:02+00:00",
   "lthing": 158,
   "items": [
     {
@@ -1019,6 +1019,13 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "utanríkismálanefnd — 2026-11-25 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29019",
+      "published": "2026-11-25",
+      "nefnd": "utanríkismálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "velferðarnefnd — 2026-11-25 kl. 09:00 (Smiðja)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28999",
       "published": "2026-11-25",
@@ -1033,6 +1040,20 @@
     },
     {
       "kind": "nefndarfundur",
+      "title": "efnahags- og viðskiptanefnd — 2026-11-26 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29016",
+      "published": "2026-11-26",
+      "nefnd": "efnahags- og viðskiptanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-11-26 kl. 09:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28922",
+      "published": "2026-11-26",
+      "nefnd": "allsherjar- og menntamálanefnd"
+    },
+    {
+      "kind": "nefndarfundur",
       "title": "umhverfis- og samgöngunefnd — 2026-11-26 kl. 09:00 (Í Smiðju)",
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=28994",
       "published": "2026-11-26",
@@ -1044,6 +1065,27 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29018",
       "published": "2026-11-26",
       "nefnd": "fjárlaganefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "stjórnskipunar- og eftirlitsnefnd — 2026-11-26 kl. 11:00 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29022",
+      "published": "2026-11-26",
+      "nefnd": "stjórnskipunar- og eftirlitsnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-11-26 kl. 11:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29000",
+      "published": "2026-11-26",
+      "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "velferðarnefnd — 2026-11-27 kl. 09:00 (Smiðja)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29001",
+      "published": "2026-11-27",
+      "nefnd": "velferðarnefnd"
     },
     {
       "kind": "nefndarfundur",
