@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:51:41+00:00",
+  "generated_at": "2026-11-27T16:37:13+00:00",
   "lthing": 158,
   "items": [
     {
@@ -1093,6 +1093,13 @@
       "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29001",
       "published": "2026-11-27",
       "nefnd": "velferðarnefnd"
+    },
+    {
+      "kind": "nefndarfundur",
+      "title": "allsherjar- og menntamálanefnd — 2026-11-27 kl. 13:30 (í Smiðju)",
+      "link": "http://www.althingi.is/thingnefndir/dagskra-nefndarfunda/?nfaerslunr=29020",
+      "published": "2026-11-27",
+      "nefnd": "allsherjar- og menntamálanefnd"
     },
     {
       "kind": "nefndarfundur",
